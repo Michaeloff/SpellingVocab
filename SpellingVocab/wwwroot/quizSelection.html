@@ -1,0 +1,70 @@
+﻿
+<div class="container">
+    <div class="row justify-content-center mt-4">
+        <div class="btn-group" role="group">
+            <a href="#" class="btn btn-outline-dark disabled mt-4 font-weight-bolder bg-white">Select Grade:</a>
+            <div id="gradeSelection" class="dropdown btn-group mt-4" role="group">
+                <button class="btn btn-primary btn-secondary dropdown-toggle"
+                        type="button" id="dropdownMenuGrades" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                    1st
+                </button>
+                <div id="listDropdownGrades" class="dropdown-menu" aria-labelledby="dropdownMenuGrades">
+                    <a class="dropdown-item" href="#!">1st</a>
+                    <a class="dropdown-item" href="#!">2nd</a>
+                    <a class="dropdown-item" href="#!">3rd</a>
+                    <a class="dropdown-item" href="#!">4th</a>
+                    <a class="dropdown-item" href="#!">5th</a>
+                    <a class="dropdown-item" href="#!">6th</a>
+                </div>
+            </div>
+        </div>
+        <div class="btn-group" role="group">
+            <a href="#" class="btn btn-outline-dark disabled ml-4 mt-4 font-weight-bolder bg-white">Select List:</a>
+            <div id="listSelection" class="dropdown btn-group mt-4" role="group">
+                <button class="btn btn-primary btn-secondary dropdown-toggle"
+                        type="button" id="dropdownMenuLists" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                    1st grade - 2017 - list 1
+                </button>
+                <div id="listDropdownItems" class="dropdown-menu" aria-labelledby="dropdownMenuLists">
+                    <!-- Will be automatically populated with items like this: <a class="dropdown-item" href="#!">4th grade - 2017 - list 1</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="btn-group" role="group">
+            <a href="#" class="btn btn-outline-dark disabled ml-4 mt-4 font-weight-bolder bg-white">Select Quiz:</a>
+            <div id="quizSelection" class="dropdown btn-group mt-4" role="group">
+                <button class="btn btn-primary btn-secondary dropdown-toggle"
+                        type="button" id="dropdownMenuQuizzes" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                    Spelling
+                </button>
+                <div id="listDropdownQuizzes" class="dropdown-menu" aria-labelledby="dropdownMenuQuizzes">
+                    <a class="dropdown-item" href="#!">Spelling</a>
+                    <a class="dropdown-item" href="#!">Definitions</a>
+                    <a class="dropdown-item" href="#!">Synonyms</a>
+                </div>
+            </div>
+        </div>
+        <button type="button" class="btn btn-success ml-4 mt-4" onclick="loadQuizPage()">Start Quiz</button>
+    </div>
+    <div class="row justify-content-center mt-4">
+        <table id="selectWordsTable" class="col-12 table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <th class="text-center">Words</th>
+                    <th>Definition</th>
+                </tr>
+            </thead>
+            <tbody id="selectWordsTableBody">
+                <!-- Will be automatically populated with rows like this:
+                <tr>
+                    <td>dense</td>
+                    <td>(adjective) crowded very close together.</td>
+                </tr>
+                -->
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,3002 @@
+[
+  {
+    "WordID": 1016,
+    "Word": "red",
+    "PartOfSpeech": "adjective",
+    "Definition": "Of a color that is like that of blood or a ruby.",
+    "Example": "He made a red paper heart for Valentine's Day.",
+    "Synonyms": "scarlet, vermilion, ruby, ruby-red, ruby-coloured, cherry, cherry-red",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1017,
+    "Word": "see",
+    "PartOfSpeech": "verb",
+    "Definition": "Perceive with the eyes; discern visually.",
+    "Example": "In the distance she could see the blue ocean.",
+    "Synonyms": "discern, perceive, glimpse, catch a glimpse of, get a glimpse of, spot, notice",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1018,
+    "Word": "fun",
+    "PartOfSpeech": "noun",
+    "Definition": "Enjoyment, amusement, or lighthearted pleasure.",
+    "Example": "The children were having fun in the play area.",
+    "Synonyms": "pleasure, entertainment, enjoyment, amusement, excitement, gratification",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1019,
+    "Word": "din",
+    "PartOfSpeech": "noun",
+    "Definition": "A loud, unpleasant, and prolonged noise.",
+    "Example": "The fans made an awful din.",
+    "Synonyms": "uproar, racket, loud noise, confused noise, commotion, cacophony, babel",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1020,
+    "Word": "fall",
+    "PartOfSpeech": "verb",
+    "Definition": "To drop suddenly.",
+    "Example": "The boy was careful not to fall from the tree.",
+    "Synonyms": "drop, drop down, plummet, descend, come down, go down, plunge",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1021,
+    "Word": "run",
+    "PartOfSpeech": "verb",
+    "Definition": "To go quickly by moving the legs.",
+    "Example": "The dog liked to run across the field.",
+    "Synonyms": "sprint, race, dart, rush, dash, hasten, hurry",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1022,
+    "Word": "ask",
+    "PartOfSpeech": "verb",
+    "Definition": "Say something in order to obtain an answer or some information.",
+    "Example": "Students should ask many questions.",
+    "Synonyms": "enquire, enquire of, query, want to know, question, put a question to, interrogate",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1023,
+    "Word": "lad",
+    "PartOfSpeech": "noun",
+    "Definition": "A boy or young man (often as a form of address).",
+    "Example": "Come in, lad, and shut the door.",
+    "Synonyms": "boy, schoolboy, youth, youngster, juvenile, stripling, young fellow",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1024,
+    "Word": "best",
+    "PartOfSpeech": "adjective",
+    "Definition": "Of the most excellent, effective, or desirable type or quality.",
+    "Example": "She is the best pitcher in the league.",
+    "Synonyms": "finest, greatest, top, foremost, leading, pre-eminent, premier",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1025,
+    "Word": "pay",
+    "PartOfSpeech": "verb",
+    "Definition": "Give (someone) money that is due for work done, goods received, or a debt incurred.",
+    "Example": "He needs to pay the locals to pick his coffee beans.",
+    "Synonyms": "reward, reimburse, recompense, give payment to, settle up with, remunerate, tip",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1026,
+    "Word": "zoo",
+    "PartOfSpeech": "noun",
+    "Definition": "A garden or park where wild animals are kept so the public can see them.",
+    "Example": "The children love to visit the elephants at the zoo.",
+    "Synonyms": "menagerie, captivity, reservation, sanctuary, safari park",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1027,
+    "Word": "hill",
+    "PartOfSpeech": "noun",
+    "Definition": "A naturally raised area of land, not as high or craggy as a mountain.",
+    "Example": "He climbed the hill for a better view.",
+    "Synonyms": "high ground, rising ground, prominence, eminence, elevation, rise, hillock",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1028,
+    "Word": "air",
+    "PartOfSpeech": "noun",
+    "Definition": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+    "Example": "The doctor told me to get some fresh air.",
+    "Synonyms": "breeze, wind, draft, stratosphere",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1029,
+    "Word": "keep",
+    "PartOfSpeech": "verb",
+    "Definition": "Have or retain possession of.",
+    "Example": "The prince would keep the best for himself.",
+    "Synonyms": "have, manage, preserve, retain, save, accumulate",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1030,
+    "Word": "fish",
+    "PartOfSpeech": "noun",
+    "Definition": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+    "Example": "The sea is thick with fish.",
+    "Synonyms": "N/A",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1031,
+    "Word": "one",
+    "PartOfSpeech": "adjective",
+    "Definition": "Being a single person or thing and no more.",
+    "Example": "There's only room for one person.",
+    "Synonyms": "single, solitary, sole, lone",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1032,
+    "Word": "gills",
+    "PartOfSpeech": "noun",
+    "Definition": "Organs used to get oxygen from water.",
+    "Example": "Fish can pump water across their gills with their head muscles.",
+    "Synonyms": "openings, funnels, orifices, cavities",
+    "Grade": 1,
+    "List": "1st - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1033,
+    "Word": "path",
+    "PartOfSpeech": "noun",
+    "Definition": "A way or track laid down for walking or made by continual treading.",
+    "Example": "He walked the path to the school.",
+    "Synonyms": "footpath, pathway, footway, pavement, track, jogging track, trail",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1034,
+    "Word": "rain",
+    "PartOfSpeech": "noun",
+    "Definition": "Moisture condensed from the atmosphere that falls visibly in separate drops.",
+    "Example": "The rain had not stopped for days.",
+    "Synonyms": "rainfall, precipitation, raindrops, rainwater, wet weather",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1035,
+    "Word": "burp",
+    "PartOfSpeech": "verb",
+    "Definition": "Noisily release air from the stomach through the mouth; belch.",
+    "Example": "The baby will often burp and then smile.",
+    "Synonyms": "belch, bring up wind",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1036,
+    "Word": "tent",
+    "PartOfSpeech": "noun",
+    "Definition": "A portable shelter made of canvas or other material that is stretched across poles.",
+    "Example": "He decided to pitch his tent next to the river.",
+    "Synonyms": "shelter, canvas, canopy, tarpaulin, covering",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1037,
+    "Word": "sick",
+    "PartOfSpeech": "adjective",
+    "Definition": "Affected by physical or mental illness.",
+    "Example": "They are nursing very sick children.",
+    "Synonyms": "ill, unwell, poorly, ailing, indisposed, laid up",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1038,
+    "Word": "code",
+    "PartOfSpeech": "noun",
+    "Definition": "A system of words, figures, or other symbols substituted for others, esp. for secrecy.",
+    "Example": "The spies used a secret code to send messages.",
+    "Synonyms": "cipher, secret language, secret writing, set of symbols, key, hieroglyphics",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1039,
+    "Word": "maze",
+    "PartOfSpeech": "noun",
+    "Definition": "A complex pattern of paths that branch out and connect in a confusing way.",
+    "Example": "Running through a corn maze is a fun fall activity.",
+    "Synonyms": "tangle, twist, labyrinth, winding, puzzle",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1040,
+    "Word": "webs",
+    "PartOfSpeech": "noun",
+    "Definition": "Networks of crisscrossing threads that are made by spiders to catch prey.",
+    "Example": "The spider spun webs to catch flies.",
+    "Synonyms": "mesh, netting, net, lattice",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1041,
+    "Word": "boat",
+    "PartOfSpeech": "noun",
+    "Definition": "A small vessel propelled on water by oars, sails, or an engine.",
+    "Example": "A fishing boat drifted in the lake.",
+    "Synonyms": "vessel, craft, watercraft, ship",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1042,
+    "Word": "date",
+    "PartOfSpeech": "noun",
+    "Definition": "The day of the month or year as specified by a number.",
+    "Example": "What's the date today?",
+    "Synonyms": "day, day of the month, occasion, year, anniversary, time",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1043,
+    "Word": "trim",
+    "PartOfSpeech": "verb",
+    "Definition": "To cut or shorten (something) to make it neater or more regular.",
+    "Example": "Trim the grass using a sharp mower.",
+    "Synonyms": "cut, barber, crop, bob, shorten, clip, snip",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1044,
+    "Word": "yard",
+    "PartOfSpeech": "noun",
+    "Definition": "The usually grassy land surrounding a house.",
+    "Example": "He planted a new tree in his yard.",
+    "Synonyms": "backyard, courtyard, garden, lawn, enclosure",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1045,
+    "Word": "week",
+    "PartOfSpeech": "noun",
+    "Definition": "A period of seven days.",
+    "Example": "The course lasts for one week.",
+    "Synonyms": "period of time, seven days",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1046,
+    "Word": "game",
+    "PartOfSpeech": "noun",
+    "Definition": "A physical or mental competition that has rules and which players try to win.",
+    "Example": "Did you win your basketball game?",
+    "Synonyms": "match, contest, tournament, meeting, sports meeting, meet, event",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1047,
+    "Word": "hope",
+    "PartOfSpeech": "noun",
+    "Definition": "A feeling of expectation and desire for a certain thing to happen.",
+    "Example": "He looked through her belongings in the hope of coming across some information.",
+    "Synonyms": "aspiration, desire, wish, expectation, ambition, aim, plan",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1048,
+    "Word": "lake",
+    "PartOfSpeech": "noun",
+    "Definition": "A large body of water surrounded by land.",
+    "Example": "The boys were swimming in the lake.",
+    "Synonyms": "pond, pool, tarn, reservoir, lagoon, waterhole, inland sea",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1049,
+    "Word": "sold",
+    "PartOfSpeech": "verb",
+    "Definition": "Gave up (something) to someone else in exchange for money or something else of value.",
+    "Example": "They sold the car to buy a boat.",
+    "Synonyms": "vended, auctioned, traded, peddled",
+    "Grade": 1,
+    "List": "1st - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1050,
+    "Word": "king",
+    "PartOfSpeech": "noun",
+    "Definition": "The male ruler of an independent state, especially one who inherits the position by right of birth.",
+    "Example": "The king ruled the entire country.",
+    "Synonyms": "ruler, sovereign, monarch, supreme ruler, crowned head, majesty, crown",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1051,
+    "Word": "just",
+    "PartOfSpeech": "adverb",
+    "Definition": "A very short time ago : very recently.",
+    "Example": "I just won the lottery!",
+    "Synonyms": "right now, recently, presently, at this moment",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1052,
+    "Word": "even",
+    "PartOfSpeech": "adjective",
+    "Definition": "Being any number that can be exactly divided by two.",
+    "Example": "She can count by both even and odd numbers.",
+    "Synonyms": "Divisible by two, not odd",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1053,
+    "Word": "carry",
+    "PartOfSpeech": "verb",
+    "Definition": "Support and move (someone or something) from one place to another.",
+    "Example": "Medics sometimes carry a wounded person on a stretcher.",
+    "Synonyms": "convey, transfer, move, take, bring, bear, shift",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1054,
+    "Word": "yelp",
+    "PartOfSpeech": "noun",
+    "Definition": "A short, sharp cry, especially of pain or alarm.",
+    "Example": "She uttered a yelp as she bumped into a table.",
+    "Synonyms": "squeal, squawk, screech, shriek, scream, howl, yowl",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1055,
+    "Word": "jaws",
+    "PartOfSpeech": "noun",
+    "Definition": "The upper and lower parts of the mouth containing teeth that open and close.",
+    "Example": "The shark's jaws snapped closed.",
+    "Synonyms": "jawbones, mandibles",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1056,
+    "Word": "mind",
+    "PartOfSpeech": "verb",
+    "Definition": "To object to : dislike.",
+    "Example": "He didn't mind the breeze on a hot day.",
+    "Synonyms": "dislike, resent, object, complain, disapprove",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1057,
+    "Word": "salt",
+    "PartOfSpeech": "noun",
+    "Definition": "A white crystal-like substance that is used especially to season or preserve food.",
+    "Example": "Just a pinch of salt can improve a meal.",
+    "Synonyms": "sodium chloride, brine, spice, flavoring, seasoning",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1058,
+    "Word": "city",
+    "PartOfSpeech": "noun",
+    "Definition": "A large or important place where a lot of people live.",
+    "Example": "The city bustled with people and activity.",
+    "Synonyms": "town, municipality, metropolis, megalopolis",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1059,
+    "Word": "eggs",
+    "PartOfSpeech": "noun",
+    "Definition": "Oval, hard-shelled objects from which young birds are born.",
+    "Example": "The eggs were about to hatch.",
+    "Synonyms": "seeds, buds, ova",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1060,
+    "Word": "away",
+    "PartOfSpeech": "adverb",
+    "Definition": "To or at a distance from a particular place, person, or thing.",
+    "Example": "He hiked away from the city.",
+    "Synonyms": "aside, off, to one side",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1061,
+    "Word": "pool",
+    "PartOfSpeech": "noun",
+    "Definition": "A small area of still water, either natural or man-made for swimming.",
+    "Example": "They swam in the pool to cool off.",
+    "Synonyms": "puddle, pond, basin, tank",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1062,
+    "Word": "lunch",
+    "PartOfSpeech": "noun",
+    "Definition": "A meal eaten in the middle of the day.",
+    "Example": "She enjoyed her vegetarian lunch.",
+    "Synonyms": "midday meal, luncheon",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1063,
+    "Word": "happy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Feeling or showing pleasure or contentment.",
+    "Example": "She came in looking happy and excited.",
+    "Synonyms": "contented, content, cheerful, cheery, merry, joyful, jovial",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1064,
+    "Word": "lima",
+    "PartOfSpeech": "noun",
+    "Definition": "A type of large, flat, green or whitish bean that can be eaten.",
+    "Example": "Lima beans are a nutritious food.",
+    "Synonyms": "N/A",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1065,
+    "Word": "grapes",
+    "PartOfSpeech": "noun",
+    "Definition": "A smooth-skinned juicy berry usually green or red in color.",
+    "Example": "He sat on his throne as servants fed him grapes.",
+    "Synonyms": "berries, vine fruits, wine crop",
+    "Grade": 1,
+    "List": "1st - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1066,
+    "Word": "yummy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having a really good taste or flavor.",
+    "Example": "She ate three yummy pumpkin cakes.",
+    "Synonyms": "tasty, appetizing, pleasant-tasting",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1067,
+    "Word": "shy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Being reserved or having or showing nervousness or timidity in the company of other people.",
+    "Example": "I was pretty shy at school.",
+    "Synonyms": "bashful, diffident, timid, sheepish, reserved, reticent, introverted",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1068,
+    "Word": "dirt",
+    "PartOfSpeech": "noun",
+    "Definition": "A substance, such as mud or dust, that soils someone or something.",
+    "Example": "His face was covered in dirt.",
+    "Synonyms": "grime, dust, soot, smut",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1069,
+    "Word": "spin",
+    "PartOfSpeech": "verb",
+    "Definition": "Turn or cause to turn or whirl around quickly.",
+    "Example": "The girl watched the top spin on the table.",
+    "Synonyms": "revolve, rotate, turn, turn round, go round, whirl, gyrate",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1070,
+    "Word": "bugs",
+    "PartOfSpeech": "noun",
+    "Definition": "Insects or other similar creeping or crawling animals.",
+    "Example": "She found a variety of bugs in the garden.",
+    "Synonyms": "insects, fleas, mites, midges",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1071,
+    "Word": "robe",
+    "PartOfSpeech": "noun",
+    "Definition": "A long, loose outer garment.",
+    "Example": "He spent the weekend lounging in his robe.",
+    "Synonyms": "cloak, wrap, mantle, cape, kaftan",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1072,
+    "Word": "safe",
+    "PartOfSpeech": "adjective",
+    "Definition": "Protected from or not exposed to danger or risk; not likely to be harmed or lost.",
+    "Example": "The eggs are hidden in the damp sand, safe from marine predators.",
+    "Synonyms": "protected from danger, protected from harm, shielded, sheltered, guarded, defended, secure",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1073,
+    "Word": "badly",
+    "PartOfSpeech": "adverb",
+    "Definition": "In an unsatisfactory, inadequate, or unsuccessful way.",
+    "Example": "The war was going badly.",
+    "Synonyms": "poorly, incompetently, ineptly, inexpertly, inefficiently, imperfectly, deficiently",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1074,
+    "Word": "vine",
+    "PartOfSpeech": "noun",
+    "Definition": "A climbing or trailing woody-stemmed plant of the grape family.",
+    "Example": "He found tasty blackberries growing on the vine.",
+    "Synonyms": "climbing plant, trailing plant, creeper",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1075,
+    "Word": "purr",
+    "PartOfSpeech": "verb",
+    "Definition": "(Of a cat) make a low continuous vibratory sound expressing contentment.",
+    "Example": "The cat's purr comforted them.",
+    "Synonyms": "hum, murmur",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1076,
+    "Word": "done",
+    "PartOfSpeech": "adjective",
+    "Definition": "(Of an action, activity, or piece of work) having been completed or ended.",
+    "Example": "After two hours, the students were finally done with the test.",
+    "Synonyms": "completed, concluded, consummated, finalized, terminated, over and done with, over",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1077,
+    "Word": "crisp",
+    "PartOfSpeech": "adjective",
+    "Definition": "Easily broken, cracked or snapped.",
+    "Example": "She always made a salad with crisp lettuce.",
+    "Synonyms": "brittle, crunchy, fresh",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1078,
+    "Word": "face",
+    "PartOfSpeech": "noun",
+    "Definition": "The front part of your head that has your chin, mouth, nose, cheeks and eyes.",
+    "Example": "It was as obvious as the nose on his face.",
+    "Synonyms": "aspect, look, mask, appearance, countenance, front of something",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1079,
+    "Word": "next",
+    "PartOfSpeech": "adjective",
+    "Definition": "(Of a time or season) coming immediately after the time of writing or speaking.",
+    "Example": "We'll go next year.",
+    "Synonyms": "following, succeeding, to come, upcoming",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1080,
+    "Word": "mean",
+    "PartOfSpeech": "adjective",
+    "Definition": "Inconsiderate and harsh to others.",
+    "Example": "You were terribly mean to her.",
+    "Synonyms": "nasty, hostile, rude, vile, callous, unkind, cruel",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1081,
+    "Word": "soggy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Heavy with moisture or water : soaked.",
+    "Example": "The sandbags were soggy and split open.",
+    "Synonyms": "soft and wet, mushy, squashy, pulpy, pappy, slushy, sloppy",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1082,
+    "Word": "click",
+    "PartOfSpeech": "noun",
+    "Definition": "A short, sharp sound as of a switch or of two hard objects coming into contact.",
+    "Example": "She heard the click of the door.",
+    "Synonyms": "clink, clack, chink, snick, snap, pop, tick",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1083,
+    "Word": "grade",
+    "PartOfSpeech": "noun",
+    "Definition": "A particular level of rank, quality, proficiency, intensity, or value.",
+    "Example": "She starts 4th grade in the fall.",
+    "Synonyms": "rank, level, echelon, standing, station, position, placing",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1084,
+    "Word": "wings",
+    "PartOfSpeech": "noun",
+    "Definition": "The parts of an animal's body that it moves to fly.",
+    "Example": "The eagle stretched his long wings as he soared over the trees.",
+    "Synonyms": "feathers, pinions, airfoils",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1085,
+    "Word": "before",
+    "PartOfSpeech": "adverb",
+    "Definition": "During the period of time preceding (a particular event, date, or time).",
+    "Example": "She had to rest before dinner.",
+    "Synonyms": "previously, earlier, prior to, formerly",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1086,
+    "Word": "yawn",
+    "PartOfSpeech": "verb",
+    "Definition": "Involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom.",
+    "Example": "He began to yawn and look at his watch.",
+    "Synonyms": "gaping, wide open, wide, cavernous, deep",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1087,
+    "Word": "beets",
+    "PartOfSpeech": "noun",
+    "Definition": "Large roots of a garden plant that are often used as vegetables.",
+    "Example": "She made a tasty stew using beets.",
+    "Synonyms": "vegetables, chards",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1088,
+    "Word": "twig",
+    "PartOfSpeech": "noun",
+    "Definition": "A slender woody shoot growing from a branch or stem of a tree or shrub.",
+    "Example": "She used a twig to rescue the spider from the stream.",
+    "Synonyms": "small branch, shoot, offshoot, stem, scion",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1089,
+    "Word": "tabby",
+    "PartOfSpeech": "noun",
+    "Definition": "A cat whose fur is mottled or streaked with dark stripes.",
+    "Example": "They adopted the wild tabby.",
+    "Synonyms": "cat, domestic cat, wild cat, alley cat, kitten",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1090,
+    "Word": "cage",
+    "PartOfSpeech": "noun",
+    "Definition": "A structure of bars or wires in which birds or other animals are confined.",
+    "Example": "She kept a canary in a cage.",
+    "Synonyms": "enclosure, pen, pound",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1091,
+    "Word": "wool",
+    "PartOfSpeech": "noun",
+    "Definition": "The soft, wavy or curly hair of some animals (such as sheep) often used to make cloth.",
+    "Example": "The wool jacket was warm, but a bit uncomfortable.",
+    "Synonyms": "fleece, hair, coat",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1092,
+    "Word": "brand",
+    "PartOfSpeech": "noun",
+    "Definition": "A type of product manufactured by a particular company under a particular name.",
+    "Example": "He tried a new brand of detergent.",
+    "Synonyms": "make, line, label, marque",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1093,
+    "Word": "paper",
+    "PartOfSpeech": "noun",
+    "Definition": "A thin sheet of fibers used in many ways, including as a surface for writing.",
+    "Example": "A printer holds many sheets of paper.",
+    "Synonyms": "sheet, pad, note, poster, stationery",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1094,
+    "Word": "hurry",
+    "PartOfSpeech": "verb",
+    "Definition": "Move or act with great haste.",
+    "Example": "We'd better hurry or we'll miss the movie.",
+    "Synonyms": "be quick, hurry up, move quickly, go fast, hasten, make haste, speed",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1095,
+    "Word": "after",
+    "PartOfSpeech": "preposition",
+    "Definition": "In the time following (an event or another period of time).",
+    "Example": "After a while he returned.",
+    "Synonyms": "following, subsequent to, succeeding, at the close of, at the end of, in the wake of, later than",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1096,
+    "Word": "litter",
+    "PartOfSpeech": "noun",
+    "Definition": "Trash, such as paper, cans, and bottles, that is left lying in an open or public place.",
+    "Example": "The police give fines for leaving litter.",
+    "Synonyms": "rubbish, refuse, junk, waste, debris, odds and ends, scraps",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1097,
+    "Word": "holding",
+    "PartOfSpeech": "verb",
+    "Definition": "Having or keeping (something) in your hands or arms.",
+    "Example": "She was holding a brown leather suitcase.",
+    "Synonyms": "clasping, clutching, grasping, gripping, clenching, clinging to",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1098,
+    "Word": "street",
+    "PartOfSpeech": "noun",
+    "Definition": "A public road in a city or town, typically with houses and buildings on one or both sides.",
+    "Example": "Follow the narrow, winding street until you arrive at the park.",
+    "Synonyms": "road, thoroughfare, way",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1099,
+    "Word": "loft",
+    "PartOfSpeech": "noun",
+    "Definition": "A room or space directly under the roof of a house or other building.",
+    "Example": "He is renting a loft in Chicago.",
+    "Synonyms": "attic, roof space, studio, apartment",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1100,
+    "Word": "fluffy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Light and soft or airy.",
+    "Example": "A fluffy towel feels nice after a shower.",
+    "Synonyms": "fleecy, woolly, fuzzy, shaggy, hairy, feathery, downy",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1101,
+    "Word": "alarm",
+    "PartOfSpeech": "noun",
+    "Definition": "An anxious awareness of danger.",
+    "Example": "The boat tilted and the boatmen cried out in alarm.",
+    "Synonyms": "fear, anxiety, apprehension, trepidation, nervousness, unease, distress",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1102,
+    "Word": "oink",
+    "PartOfSpeech": "noun",
+    "Definition": "The characteristic grunting sound of a pig.",
+    "Example": "The pig's oink sounded almost like a greeting.",
+    "Synonyms": "N/A",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1103,
+    "Word": "mercy",
+    "PartOfSpeech": "noun",
+    "Definition": "Compassion or forgiveness shown toward someone whom it is within one's power to punish or harm.",
+    "Example": "The criminal begged for mercy.",
+    "Synonyms": "leniency, lenience, clemency, compassion, grace, pity, charity",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1104,
+    "Word": "lobby",
+    "PartOfSpeech": "noun",
+    "Definition": "A large room that is used as the entrance area to a building.",
+    "Example": "Let's meet in the hotel's lobby.",
+    "Synonyms": "entrance hall, entrance, vestibule, foyer, reception area",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1105,
+    "Word": "alert",
+    "PartOfSpeech": "adjective",
+    "Definition": "Quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+    "Example": "An alert police officer discovered a truck full of explosives.",
+    "Synonyms": "vigilant, wide awake, aware, watchful, attentive, observant, circumspect",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1106,
+    "Word": "tiptoe",
+    "PartOfSpeech": "verb",
+    "Definition": "To walk quietly or cautiously on only the front ends of your feet.",
+    "Example": "The girl liked to tiptoe behind her brother to surprise him.",
+    "Synonyms": "creep, sneak, slink, slip, slither, slide, glide",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1107,
+    "Word": "pillows",
+    "PartOfSpeech": "noun",
+    "Definition": "Bags usually made of cloth and filled with soft material used to support the head when lying down.",
+    "Example": "Grandma likes to sleep with two pillows.",
+    "Synonyms": "cushions, bolsters, headrests, pads, supports, rests",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1108,
+    "Word": "tinker",
+    "PartOfSpeech": "verb",
+    "Definition": "To change, adjust or improve often experimentally.",
+    "Example": "The inventor would tinker all day in the garage.",
+    "Synonyms": "dabble, doodle, fix, repair, fiddle with",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1109,
+    "Word": "finch",
+    "PartOfSpeech": "noun",
+    "Definition": "A seed-eating songbird that typically has a stout bill and colorful plumage.",
+    "Example": "A colorful finch could be seen in our front tree each morning.",
+    "Synonyms": "N/A",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1110,
+    "Word": "blacktop",
+    "PartOfSpeech": "noun",
+    "Definition": "Asphalt, or other black material used for surfacing roads.",
+    "Example": "Blacktop roads can get quite hot in the summer sun.",
+    "Synonyms": "asphalt",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1111,
+    "Word": "heater",
+    "PartOfSpeech": "noun",
+    "Definition": "A person or thing that heats, in particular a device for warming the air or water.",
+    "Example": "A wall-mounted electric heater kept the home warm.",
+    "Synonyms": "warmer, radiator, convector, fire, brazier",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1112,
+    "Word": "morning",
+    "PartOfSpeech": "noun",
+    "Definition": "The period of time between midnight and noon, especially from sunrise to noon.",
+    "Example": "It was a beautiful sunny morning.",
+    "Synonyms": "before noon, before lunch, before lunchtime, a.m.",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1113,
+    "Word": "present",
+    "PartOfSpeech": "noun",
+    "Definition": "Something given voluntarily without payment in return; a gift.",
+    "Example": "He gave her a present for her birthday.",
+    "Synonyms": "gift, boon, bounty, donation, grant, offering, endowment",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1114,
+    "Word": "recess",
+    "PartOfSpeech": "noun",
+    "Definition": "A time between classes during the school day that is used for rest or play.",
+    "Example": "I can't wait to play soccer at recess.",
+    "Synonyms": "hiatus, holiday, lull, respite, vacation, pause",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1115,
+    "Word": "pizza",
+    "PartOfSpeech": "noun",
+    "Definition": "A thin usually round layer of bread dough covered in toppings and baked.",
+    "Example": "A cheese and tomato pizza was served for lunch.",
+    "Synonyms": "N/A",
+    "Grade": 2,
+    "List": "2nd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1116,
+    "Word": "ending",
+    "PartOfSpeech": "noun",
+    "Definition": "An end or final part of something, especially a period of time, an activity, or a book or movie.",
+    "Example": "The ending of the war was celebrated.",
+    "Synonyms": "end, finish, close, closing, conclusion, resolution, summing-up",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1117,
+    "Word": "house",
+    "PartOfSpeech": "noun",
+    "Definition": "A building for human habitation, especially one that is lived in by a family or small group of people.",
+    "Example": "The house stood alone at the end of the street.",
+    "Synonyms": "home, place of residence, homestead, lodging place, a roof over one's head",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1118,
+    "Word": "kindly",
+    "PartOfSpeech": "adverb",
+    "Definition": "In a kind manner.",
+    "Example": "The nun was a kindly old soul.",
+    "Synonyms": "benevolently, good-naturedly, warmly, affectionately, tenderly, lovingly, compassionately",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1119,
+    "Word": "relax",
+    "PartOfSpeech": "verb",
+    "Definition": "Make or become less tense or anxious.",
+    "Example": "I will relax when I'm done with my homework.",
+    "Synonyms": "rest, lie down, recline, unwind, loosen up",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1120,
+    "Word": "bacon",
+    "PartOfSpeech": "noun",
+    "Definition": "Meat from the sides of a pig that has been salted and smoked.",
+    "Example": "The hotel served bacon and eggs for breakfast.",
+    "Synonyms": "pork, pancetta",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1121,
+    "Word": "radar",
+    "PartOfSpeech": "noun",
+    "Definition": "A radio device or system for locating an object.",
+    "Example": "The police use radar to detect the speed of cars.",
+    "Synonyms": "sonar, radio detection",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1122,
+    "Word": "globe",
+    "PartOfSpeech": "noun",
+    "Definition": "The earth or a round ball that has a map of the earth drawn on it.",
+    "Example": "He collected goodies from all over the globe.",
+    "Synonyms": "world, earth, universe, planet",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1123,
+    "Word": "yak",
+    "PartOfSpeech": "noun",
+    "Definition": "A large ox with long wavy hair that is used for its milk and meat and to carry heavy loads.",
+    "Example": "The yak can be found in the Tibetan highlands.",
+    "Synonyms": "ox",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1124,
+    "Word": "hobby",
+    "PartOfSpeech": "noun",
+    "Definition": "An activity done regularly in one's leisure time for pleasure.",
+    "Example": "Her main hobby is reading.",
+    "Synonyms": "pastime, leisure activity, leisure pursuit, leisure interest, amateur interest, sideline, diversion",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1125,
+    "Word": "markers",
+    "PartOfSpeech": "noun",
+    "Definition": "Objects used to indicate a position, place, or route.",
+    "Example": "They erected granite markers at the crash site.",
+    "Synonyms": "notices, signposts, signboards, warning signs, road signs, traffic signs",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1126,
+    "Word": "loaf",
+    "PartOfSpeech": "noun",
+    "Definition": "Bread that is shaped and baked in one piece and usually sliced before being eaten.",
+    "Example": "He bought a loaf of bread from the grocery store.",
+    "Synonyms": "bun, cake, dough, pastry",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1127,
+    "Word": "shiny",
+    "PartOfSpeech": "adjective",
+    "Definition": "(Of a smooth surface) reflecting light, typically from being very clean or polished.",
+    "Example": "The sun reflected off the shiny car.",
+    "Synonyms": "glossy, glassy, bright, polished, burnished, gleaming, satiny",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1128,
+    "Word": "disco",
+    "PartOfSpeech": "noun",
+    "Definition": "A club or party at which people dance to pop music.",
+    "Example": "They danced at the disco all night long.",
+    "Synonyms": "social gathering, gathering, social occasion, social event, social function, function, get-together",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1129,
+    "Word": "sloth",
+    "PartOfSpeech": "noun",
+    "Definition": "Reluctance to work or make an effort; laziness.",
+    "Example": "He should overcome his natural sloth and complacency.",
+    "Synonyms": "laziness, idleness, indolence, slothfulness, inactivity, inertia, sluggishness",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1130,
+    "Word": "maple",
+    "PartOfSpeech": "noun",
+    "Definition": "A tree with gray bark, sectioned leaves, hard wood and sap used to make syrup.",
+    "Example": "The maple tree provided shade for their house.",
+    "Synonyms": "N/A",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1131,
+    "Word": "wary",
+    "PartOfSpeech": "adjective",
+    "Definition": "Feeling or showing caution about possible dangers or problems.",
+    "Example": "Dogs that have been mistreated often remain very wary of strangers.",
+    "Synonyms": "cautious, careful, circumspect, on one's guard, chary, alert, on the alert",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1132,
+    "Word": "latch",
+    "PartOfSpeech": "verb",
+    "Definition": "To secure something against opening by using a device for holding it closed.",
+    "Example": "Be sure to latch the gate before leaving.",
+    "Synonyms": "bar, bolt, cinch, close, lock, secure",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1135,
+    "Word": "view",
+    "PartOfSpeech": "noun",
+    "Definition": "The ability to see something or to be seen from a particular place.",
+    "Example": "The end of the tunnel came into view.",
+    "Synonyms": "sight, perspective, field of vision, range of vision, vision, visibility, eyeshot",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1136,
+    "Word": "toad",
+    "PartOfSpeech": "noun",
+    "Definition": "A tailless amphibian with a short stout body and short legs, typically having dry warty skin.",
+    "Example": "The toad jumped into the lake.",
+    "Synonyms": "frog, polliwog, tadpole",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1137,
+    "Word": "family",
+    "PartOfSpeech": "noun",
+    "Definition": "A social unit consisting of one or more adults together with the children they care for.",
+    "Example": "He came from a large family.",
+    "Synonyms": "household, clan, folk, tribe, group, brood, lineage",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1138,
+    "Word": "type",
+    "PartOfSpeech": "noun",
+    "Definition": "A category of people or things having common characteristics.",
+    "Example": "This type of heather grows better in a drier habitat.",
+    "Synonyms": "kind, sort, variety, class, category, classification, group",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1139,
+    "Word": "pudding",
+    "PartOfSpeech": "noun",
+    "Definition": "A dessert with a creamy consistency.",
+    "Example": "Chocolate pudding is my favorite.",
+    "Synonyms": "mousse, custard",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1140,
+    "Word": "hours",
+    "PartOfSpeech": "noun",
+    "Definition": "Periods of time lasting 60 minutes.",
+    "Example": "The test took two hours.",
+    "Synonyms": "moments, periods",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1141,
+    "Word": "forest",
+    "PartOfSpeech": "noun",
+    "Definition": "A large area covered chiefly with trees and undergrowth.",
+    "Example": "A pine forest grew to the edge of the mountains.",
+    "Synonyms": "wood, woods, woodland, trees, tree plantation, plantation",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1142,
+    "Word": "moths",
+    "PartOfSpeech": "noun",
+    "Definition": "A chiefly nocturnal insect related to the butterflies.",
+    "Example": "The moths were drawn to the light of the lantern.",
+    "Synonyms": "butterflies, bugs, insects",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1143,
+    "Word": "invent",
+    "PartOfSpeech": "verb",
+    "Definition": "Create or design (something that has not existed before); be the originator of.",
+    "Example": "She plans to invent an improved form of the steam engine.",
+    "Synonyms": "originate, create, innovate, design, devise, contrive, formulate",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1144,
+    "Word": "swoosh",
+    "PartOfSpeech": "noun",
+    "Definition": "The sound produced by a sudden rush of air or liquid.",
+    "Example": "The swoosh of surf is fascinating to hear.",
+    "Synonyms": "churn, roil, twirl, whirl",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1145,
+    "Word": "object",
+    "PartOfSpeech": "noun",
+    "Definition": "A material thing that can be seen and touched.",
+    "Example": "He was dragging a large object.",
+    "Synonyms": "thing, article, item, piece, device, gadget, entity",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1146,
+    "Word": "plaster",
+    "PartOfSpeech": "noun",
+    "Definition": "A mix of usually sand, water and other materials that is used to coat inside walls and ceilings.",
+    "Example": "The worker used lots of plaster during the house's construction.",
+    "Synonyms": "adhesive, cement, mortar, glue, stucco",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1147,
+    "Word": "lessons",
+    "PartOfSpeech": "noun",
+    "Definition": "An amount of teaching given at one time; a period of learning or teaching.",
+    "Example": "Advanced lessons in math were given at the school.",
+    "Synonyms": "classes, sessions, seminars, tutorials, lectures, periods",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1148,
+    "Word": "shrubs",
+    "PartOfSpeech": "noun",
+    "Definition": "Plants that have woody stems and don't grow very tall.",
+    "Example": " Shrubs lined the path to the college.",
+    "Synonyms": "bushes, hedges, woody plants",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1149,
+    "Word": "otters",
+    "PartOfSpeech": "noun",
+    "Definition": "Aquatic, fish-eating mammals with long tails, short legs, webbed feet and small ears.",
+    "Example": "The otters played in the ocean behind the aquarium.",
+    "Synonyms": "N/A",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1150,
+    "Word": "sapling",
+    "PartOfSpeech": "noun",
+    "Definition": "A young tree, especially one with a slender trunk.",
+    "Example": "Given a chance, a sapling can grow to become a mighty tree.",
+    "Synonyms": "seedling, young tree",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1151,
+    "Word": "tangled",
+    "PartOfSpeech": "adjective",
+    "Definition": "Twisted together untidily; matted.",
+    "Example": "His hair was a tangled mess.",
+    "Synonyms": "ravelled, entangled, snarled, snarled up, entwined, intertwisted, twisted",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1152,
+    "Word": "quest",
+    "PartOfSpeech": "noun",
+    "Definition": "A long or arduous search for something.",
+    "Example": "The quest for a reliable vaccine has intensified.",
+    "Synonyms": "search, hunt, pursuit",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1153,
+    "Word": "wry",
+    "PartOfSpeech": "adjective",
+    "Definition": "Using or expressing dry, especially mocking, humor.",
+    "Example": "He wore a wry smile after hearing the joke.",
+    "Synonyms": "ironic, sardonic, satirical, mocking, scoffing, sneering, derisive",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1154,
+    "Word": "owner",
+    "PartOfSpeech": "noun",
+    "Definition": "A person who owns something.",
+    "Example": "I am the proud owner of a huge Dalmatian.",
+    "Synonyms": "possessor, holder, proprietor, proprietress, homeowner, freeholder, landlord",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1155,
+    "Word": "pimple",
+    "PartOfSpeech": "noun",
+    "Definition": "A small hard inflamed spot on the skin.",
+    "Example": "He had a pimple at the corner of his mouth.",
+    "Synonyms": "spot, pustule, blackhead, boil, swelling, eruption, carbuncle",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1156,
+    "Word": "orbit",
+    "PartOfSpeech": "noun",
+    "Definition": "The curved path of a celestial object or spacecraft around a star, planet, or moon.",
+    "Example": "The astronomer tracked the orbit of Jupiter's moons.",
+    "Synonyms": "course, path, circuit, track, trajectory, rotation, revolution",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1157,
+    "Word": "birthday",
+    "PartOfSpeech": "noun",
+    "Definition": "The anniversary of the day on which a person was born.",
+    "Example": "Everyone is invited to my birthday party!",
+    "Synonyms": "date of birth, name day, natal day",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1158,
+    "Word": "royal",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having the status of a king or queen or a member of their family.",
+    "Example": "Contributors included members of the royal family.",
+    "Synonyms": "regal, monarchal, monarchial, monarchical, sovereign, kingly, queenly",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1159,
+    "Word": "animals",
+    "PartOfSpeech": "noun",
+    "Definition": "Any living creatures except human beings.",
+    "Example": "Wild animals adapt badly to a caged life.",
+    "Synonyms": "beasts, brutes, creatures, pets, critters",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1160,
+    "Word": "presto",
+    "PartOfSpeech": "adverb",
+    "Definition": "Quickly, rapidly, or immediately.",
+    "Example": "Add a magic phrase, and presto, out comes a rabbit.",
+    "Synonyms": "rapidly, suddenly, instantaneously, as if by magic",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1161,
+    "Word": "splinter",
+    "PartOfSpeech": "noun",
+    "Definition": "A small, thin, sharp piece of wood, glass, or similar material broken off from a larger piece.",
+    "Example": "He removed a wood splinter from his thumb.",
+    "Synonyms": "sliver, shiver, chip, shard, needle",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1162,
+    "Word": "wrong",
+    "PartOfSpeech": "adjective",
+    "Definition": "Not correct or true; incorrect.",
+    "Example": "That is the wrong answer.",
+    "Synonyms": "incorrect, mistaken, in error, erroneous, inaccurate, not accurate, inexact",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1163,
+    "Word": "unicorn",
+    "PartOfSpeech": "noun",
+    "Definition": "A mythical animal typically represented as a horse with a single straight horn.",
+    "Example": "She imagined riding a unicorn to another world.",
+    "Synonyms": "N/A",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1164,
+    "Word": "gremlin",
+    "PartOfSpeech": "noun",
+    "Definition": "An imaginary mischievous sprite regarded as responsible for an unexplained problem.",
+    "Example": "A gremlin in my computer omitted a line.",
+    "Synonyms": "fault, error, defect, flaw, imperfection, failing, breakdown",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1165,
+    "Word": "whenever",
+    "PartOfSpeech": "adverb",
+    "Definition": "At whatever time; on whatever occasion (emphasizing a lack of restriction).",
+    "Example": "You can ask for help whenever you need it.",
+    "Synonyms": "at any time, on any occasion",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1166,
+    "Word": "garbage",
+    "PartOfSpeech": "noun",
+    "Definition": "Wasted or spoiled food and other refuse, as from a kitchen or household.",
+    "Example": "Better take the garbage out before it stinks.",
+    "Synonyms": "rubbish, refuse, domestic refuse, waste, waste material, debris, detritus",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1167,
+    "Word": "Fiji",
+    "PartOfSpeech": "proper noun",
+    "Definition": "An island country in the southwestern Pacific.",
+    "Example": "Someday I'd like to visit Fiji.",
+    "Synonyms": "N/A",
+    "Grade": 3,
+    "List": "3rd - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1168,
+    "Word": "dense",
+    "PartOfSpeech": "adjective",
+    "Definition": "Closely compacted in substance.",
+    "Example": "Dense volcanic rock prevented the excavation.",
+    "Synonyms": "thick, heavy, opaque, soupy, murky, smoggy, impenetrable",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1169,
+    "Word": "groan",
+    "PartOfSpeech": "verb",
+    "Definition": "Make a deep inarticulate sound in response to pain or despair.",
+    "Example": "Marty let out a groan and pulled the blanket over his head.",
+    "Synonyms": "moan, murmur, whine, whimper, mewl, bleat, sigh",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1170,
+    "Word": "siren",
+    "PartOfSpeech": "noun",
+    "Definition": "A device that makes a loud prolonged sound as a signal or warning.",
+    "Example": "The siren of the ambulance rang through the night.",
+    "Synonyms": "alarm, alarm bell, warning bell, danger signal",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1171,
+    "Word": "angles",
+    "PartOfSpeech": "noun",
+    "Definition": "The directions from which someone or something is viewed, considered or approached.",
+    "Example": "It's best to look at a problem from all angles.",
+    "Synonyms": "aspects, directions, perspectives, slants, viewpoints, standpoints",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1172,
+    "Word": "fend",
+    "PartOfSpeech": "verb",
+    "Definition": "Look after and provide for oneself, without any help from others.",
+    "Example": "You're old enough to fend for yourself.",
+    "Synonyms": "take care of oneself, look after oneself, provide for oneself, shift for oneself, manage by oneself, get by alone, get by without help",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1173,
+    "Word": "rubbish",
+    "PartOfSpeech": "noun",
+    "Definition": "Waste material; refuse or litter.",
+    "Example": "The alleyway was stacked high with rubbish.",
+    "Synonyms": "refuse, waste, garbage, litter, discarded matter, debris, detritus",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1174,
+    "Word": "tuneful",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having a pleasing tune; melodious.",
+    "Example": "That musical is full of tuneful songs.",
+    "Synonyms": "melodious, melodic, musical, mellifluous, sweet-sounding, pleasant-sounding, dulcet",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1175,
+    "Word": "artistic",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having or revealing natural creative skill.",
+    "Example": "I'm great at math, but I lack artistic ability.",
+    "Synonyms": "creative, imaginative, inventive, original",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1176,
+    "Word": "squishy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Being soft, yielding and damp.",
+    "Example": "The bananas will turn soft and squishy.",
+    "Synonyms": "flabby, fleshy, mushy, spongy",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1177,
+    "Word": "clumsy",
+    "PartOfSpeech": "adjective",
+    "Definition": "Awkward in movement or in handling things.",
+    "Example": "The cold made his fingers clumsy.",
+    "Synonyms": "awkward, uncoordinated, ungainly, graceless, ungraceful, inelegant, gawky",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1178,
+    "Word": "kibble",
+    "PartOfSpeech": "noun",
+    "Definition": "Coarsely ground dried food products or grain.",
+    "Example": "He provided kibble to the animals.",
+    "Synonyms": "grains, pellets",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1179,
+    "Word": "cues",
+    "PartOfSpeech": "noun",
+    "Definition": "Signals to a performer to begin a specific speech or action.",
+    "Example": "The actor always missed his cues.",
+    "Synonyms": "signals, signs, indications, prompts, reminders",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1180,
+    "Word": "boasted",
+    "PartOfSpeech": "verb",
+    "Definition": "Talk with excessive pride and self-satisfaction about one's achievements, possessions, or abilities.",
+    "Example": "She boasted about her many successes.",
+    "Synonyms": "brag, crow, swagger, swank, gloat, show off, blow one's own trumpet",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1181,
+    "Word": "prayer",
+    "PartOfSpeech": "noun",
+    "Definition": "A solemn request for help or expression of thanks addressed to God or an object of worship.",
+    "Example": "I'll say a prayer for him.",
+    "Synonyms": "invocation, intercession, devotion",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1182,
+    "Word": "tireless",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having or showing great effort or energy.",
+    "Example": "He is a tireless campaigner.",
+    "Synonyms": "vigorous, energetic, industrious, determined, resolute, enthusiastic, keen",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1183,
+    "Word": "factory",
+    "PartOfSpeech": "noun",
+    "Definition": "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+    "Example": "Workers in the factory assembled cars.",
+    "Synonyms": "works, plant, manufacturing complex, manufacturing facility, yard, mill, industrial unit",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1184,
+    "Word": "borrowed",
+    "PartOfSpeech": "verb",
+    "Definition": "Take and use (something that belongs to someone else) with the intention of returning it.",
+    "Example": "He had borrowed a car from one of his colleagues.",
+    "Synonyms": "take, take for oneself, help oneself to, use as one's own, abscond with, carry off, appropriate",
+    "Grade": 4,
+    "List": "4th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1185,
+    "Word": "shavings",
+    "PartOfSpeech": "noun",
+    "Definition": "Thin strips cut off a surface.",
+    "Example": "She brushed wood shavings from her knees.",
+    "Synonyms": "debris, silt, slag, remains, leavings",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1186,
+    "Word": "poodles",
+    "PartOfSpeech": "noun",
+    "Definition": "A dog of a breed with a curly coat that is often ornamentally clipped.",
+    "Example": "The poodles trotted with confidence.",
+    "Synonyms": "dog, hound, canine",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1187,
+    "Word": "gravity",
+    "PartOfSpeech": "noun",
+    "Definition": "The force that attracts a body toward the center of the earth.",
+    "Example": "Gravity keeps us from flying into space!",
+    "Synonyms": "attraction, attracting force, downward force, pull, weight, heaviness",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1188,
+    "Word": "abnormal",
+    "PartOfSpeech": "adjective",
+    "Definition": "Deviating from what is normal or usual, typically in a way that is undesirable or worrying.",
+    "Example": "The illness is recognizable from the patient's abnormal behavior.",
+    "Synonyms": "unusual, uncommon, atypical, untypical, non-typical, unrepresentative, rare",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1189,
+    "Word": "sneakers",
+    "PartOfSpeech": "noun",
+    "Definition": "Soft shoes with a rubber sole worn for sports or casual occasions.",
+    "Example": "He was most comfortable in a pair of worn sneakers.",
+    "Synonyms": "footwear, training shoes, running shoes, sports shoes, tennis shoes",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1190,
+    "Word": "crackle",
+    "PartOfSpeech": "verb",
+    "Definition": "Make a rapid succession of slight cracking noises.",
+    "Example": "The crackle of the fire was comforting.",
+    "Synonyms": "sizzle, frizzle, fizz, hiss, crack, snap, sputter",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1191,
+    "Word": "inspire",
+    "PartOfSpeech": "verb",
+    "Definition": "Fill (someone) with the urge or ability to do or feel something, especially something creative.",
+    "Example": "Her writing would inspire an entire generation.",
+    "Synonyms": "encourage, uplift, arouse, excite, motivate, hearten, instill",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1192,
+    "Word": "pleats",
+    "PartOfSpeech": "noun",
+    "Definition": "A double or multiple fold in a garment or other cloth item, held by stitching the top or side.",
+    "Example": "She noticed the fine pleats in the dress pants.",
+    "Synonyms": "folds, tucks, creases, gather, crimps",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1193,
+    "Word": "shivery",
+    "PartOfSpeech": "adjective",
+    "Definition": "Shaking or trembling as a result of cold, illness, fear, or excitement.",
+    "Example": "He felt cold and shivery.",
+    "Synonyms": "trembling, trembly, quivering, quivery, shaking, shaky, shuddering",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1194,
+    "Word": "briefing",
+    "PartOfSpeech": "noun",
+    "Definition": "A meeting for giving information or instructions quickly.",
+    "Example": "The daily press briefing brought everyone up to speed.",
+    "Synonyms": "information, orientation, preparation, rundown",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1195,
+    "Word": "obtain",
+    "PartOfSpeech": "verb",
+    "Definition": "Get, acquire, or secure (something).",
+    "Example": "A university provides the opportunity to obtain advanced degrees.",
+    "Synonyms": "get, acquire, come by, secure, procure, come into possession of, pick up",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1196,
+    "Word": "portray",
+    "PartOfSpeech": "verb",
+    "Definition": "Depict (someone or something) in a work of art or literature.",
+    "Example": "The author wanted to portray a new type of hero.",
+    "Synonyms": "paint, draw, draw a picture of, paint a picture of, picture, sketch, depict",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1197,
+    "Word": "squeeze",
+    "PartOfSpeech": "verb",
+    "Definition": "Firmly press (something soft or yielding), typically with one's fingers.",
+    "Example": "Mom would often squeeze his hand affectionately.",
+    "Synonyms": "compress, press, crush, squash, pinch, nip, grasp",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1198,
+    "Word": "rumbling",
+    "PartOfSpeech": "noun",
+    "Definition": "A continuous deep, resonant sound.",
+    "Example": "The rumbling of wheels in the distance frightened them.",
+    "Synonyms": "reverberation, resonance, throbbing, throb, vibrating, pulsation, pulsing",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1199,
+    "Word": "gangplank",
+    "PartOfSpeech": "noun",
+    "Definition": "A movable plank used as a ramp to board or disembark from a ship or boat.",
+    "Example": "The sailors put out the gangplank upon docking.",
+    "Synonyms": "bridge, link, platform, overpass",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1200,
+    "Word": "scratched",
+    "PartOfSpeech": "verb",
+    "Definition": "Score or mark the surface of (something) with a sharp or pointed object.",
+    "Example": "The car's paintwork was battered and scratched.",
+    "Synonyms": "score, abrade, scrape, roughen, scuff, scuff up, lacerate",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1201,
+    "Word": "distorted",
+    "PartOfSpeech": "adjective",
+    "Definition": "Pulled or twisted out of shape; contorted.",
+    "Example": "The politician often distorted the facts.",
+    "Synonyms": "twisted, warped, contorted, bent, buckled, deformed, malformed",
+    "Grade": 4,
+    "List": "4th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1202,
+    "Word": "cardboard",
+    "PartOfSpeech": "noun",
+    "Definition": "Pasteboard or stiff paper.",
+    "Example": "Fill the cardboard box with art supplies.",
+    "Synonyms": "pasteboard, board, stiff paper",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1203,
+    "Word": "interviews",
+    "PartOfSpeech": "noun",
+    "Definition": "A meeting of people face to face, especially for consultation.",
+    "Example": "He conducted interviews to find the best candidate.",
+    "Synonyms": "meeting, discussion, conference, question and answer session, examination, evaluation, interrogation",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1204,
+    "Word": "guilty",
+    "PartOfSpeech": "adjective",
+    "Definition": "Culpable of or responsible for a specified wrongdoing.",
+    "Example": "He was found guilty of the crime.",
+    "Synonyms": "culpable, to blame, blameworthy, blameable, at fault, in the wrong, responsible",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1205,
+    "Word": "lunar",
+    "PartOfSpeech": "adjective",
+    "Definition": "Of, determined by, or resembling the moon.",
+    "Example": "The lunar landscape was seen through the telescope.",
+    "Synonyms": "bare, exposed, desolate, stark, arid, desert, denuded",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1206,
+    "Word": "custard",
+    "PartOfSpeech": "noun",
+    "Definition": "A dessert or sweet sauce made with milk, eggs, and sugar.",
+    "Example": "Eat all your vegetables and you'll earn the custard.",
+    "Synonyms": "pudding, mousse",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1207,
+    "Word": "shriek",
+    "PartOfSpeech": "verb",
+    "Definition": "Utter a high-pitched piercing sound or words, often in terror, pain, or excitement.",
+    "Example": "The boy at the horror movie let out a shriek.",
+    "Synonyms": "scream, screech, squeal, squawk, roar, howl, bellow",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1208,
+    "Word": "ghost",
+    "PartOfSpeech": "noun",
+    "Definition": "A supernatural appearance : apparition.",
+    "Example": "The building is haunted by the ghost of a monk.",
+    "Synonyms": "spectre, phantom, wraith, spirit, soul, shadow, presence",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1209,
+    "Word": "mission",
+    "PartOfSpeech": "noun",
+    "Definition": "An important assignment with which a person or group is charged.",
+    "Example": "They went on a trade mission to Mexico.",
+    "Synonyms": "assignment, commission, expedition, journey, trip, errand, undertaking",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1210,
+    "Word": "tempting",
+    "PartOfSpeech": "adjective",
+    "Definition": "Appealing to or attracting someone, even if wrong or inadvisable.",
+    "Example": "The company made her a tempting financial offer.",
+    "Synonyms": "enticing, alluring, attractive, appealing, inviting, captivating, seductive",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1211,
+    "Word": "majestic",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having or showing impressive beauty or dignity.",
+    "Example": "He watched majestic eagles soar along the Mississippi.",
+    "Synonyms": "exalted, august, great, awesome, elevated, sublime, lofty",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1212,
+    "Word": "solution",
+    "PartOfSpeech": "noun",
+    "Definition": "A means of solving a problem or dealing with a difficult situation.",
+    "Example": "There is no easy solution to this math problem.",
+    "Synonyms": "answer, resolution, explanation, result, fix",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1213,
+    "Word": "signals",
+    "PartOfSpeech": "noun",
+    "Definition": "Sounds or gestures made to give warning or command.",
+    "Example": "Smoke signals can be used to send distant messages.",
+    "Synonyms": "gesture, sign, wave, gesticulation, cue, prompt, indicator",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1214,
+    "Word": "eliminate",
+    "PartOfSpeech": "verb",
+    "Definition": "Completely remove or get rid of (something).",
+    "Example": "The economist proposed a policy that would eliminate inflation.",
+    "Synonyms": "remove, get rid of, abolish, put an end to, do away with, banish",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1215,
+    "Word": "universe",
+    "PartOfSpeech": "noun",
+    "Definition": "All existing matter and space considered as a whole; the cosmos.",
+    "Example": "There are so many mysteries in the universe.",
+    "Synonyms": "cosmos, macrocosm, totality, whole world, creation, space, outer space",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1216,
+    "Word": "locusts",
+    "PartOfSpeech": "noun",
+    "Definition": "A large grasshopper with strong powers of flight that can swarm in large groups.",
+    "Example": "The locusts ate the farmer's crops.",
+    "Synonyms": "grasshoppers, cicadas",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1217,
+    "Word": "guidance",
+    "PartOfSpeech": "noun",
+    "Definition": "Advice or information aimed at resolving a problem or difficulty.",
+    "Example": "He looked to his father for inspiration and guidance.",
+    "Synonyms": "advice, counsel, direction, instruction, teaching, counselling, enlightenment",
+    "Grade": 4,
+    "List": "4th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1218,
+    "Word": "pored",
+    "PartOfSpeech": "verb",
+    "Definition": "Devoted oneself to attentive reading.",
+    "Example": "She pored over the law books for hours.",
+    "Synonyms": "brooded, mused, examined, pondered, perused, contemplated",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1219,
+    "Word": "mulch",
+    "PartOfSpeech": "noun",
+    "Definition": "Material spread around or over a plant to enrich or insulate the soil.",
+    "Example": "Give all fruit a mulch of manure or dead leaves.",
+    "Synonyms": "fertilizer, compost, manure",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1220,
+    "Word": "coiled",
+    "PartOfSpeech": "noun",
+    "Definition": "A length of something wound or arranged in a spiral or sequence of rings.",
+    "Example": "The spaghetti coiled around his fork as he twisted it.",
+    "Synonyms": "braid, tendril, helix, ring, spiral",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1221,
+    "Word": "glands",
+    "PartOfSpeech": "noun",
+    "Definition": "Cells, groups of cells, or organs producing a secretion.",
+    "Example": "You have three pairs of salivary glands that secrete saliva.",
+    "Synonyms": "N/A",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1222,
+    "Word": "axis",
+    "PartOfSpeech": "noun",
+    "Definition": "An imaginary line about which a body rotates.",
+    "Example": "The Earth revolves on its axis once every 24 hours.",
+    "Synonyms": "centre line, axle, hinge, pivot, shaft",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1223,
+    "Word": "radish",
+    "PartOfSpeech": "noun",
+    "Definition": "The pungent, fleshy root of a plant that is typically eaten raw.",
+    "Example": "Heat the oil and add the radish, carrot and potato.",
+    "Synonyms": "N/A",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1224,
+    "Word": "lure",
+    "PartOfSpeech": "verb",
+    "Definition": "To tempt to do something, especially by offering some form of reward.",
+    "Example": "The mermaid tried to lure the sailor into the ocean.",
+    "Synonyms": "tempt, entice, attract, induce, coax, persuade",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1225,
+    "Word": "griddle",
+    "PartOfSpeech": "noun",
+    "Definition": "A heavy, flat iron plate that is heated and used for cooking food.",
+    "Example": "Pancakes cooked on a griddle are my favorite.",
+    "Synonyms": "broiler, skillet, frying pan",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1226,
+    "Word": "jerkily",
+    "PartOfSpeech": "adverb",
+    "Definition": "In a way that is not smooth and pleasant, but has quick and sudden movements.",
+    "Example": "He looked like a frog as he moved jerkily through the water.",
+    "Synonyms": "erratically, haphazardly, sporadically, unevenly",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1227,
+    "Word": "stylish",
+    "PartOfSpeech": "adjective",
+    "Definition": "Fashionably elegant and sophisticated.",
+    "Example": "The dress shoes were stylish, but not very comfortable.",
+    "Synonyms": "fashionable, chic, classy, dapper, dressy, sleek, snazzy",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1228,
+    "Word": "knelt ",
+    "PartOfSpeech": "verb",
+    "Definition": "Fell or rested on the knees.",
+    "Example": "They knelt down and prayed.",
+    "Synonyms": "genuflect, bow down, kowtow",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1229,
+    "Word": "frayed",
+    "PartOfSpeech": "verb",
+    "Definition": "Unravel or become worn at the edge, typically through constant rubbing.",
+    "Example": "The rope joked that it was a frayed knot.",
+    "Synonyms": "unravelling, unravelled, well worn, threadbare, tattered, ragged",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1230,
+    "Word": "sprouted",
+    "PartOfSpeech": "verb",
+    "Definition": "Grew, sprung up or came forth as a shoot from a plant.",
+    "Example": "The grass sprouted in the spring.",
+    "Synonyms": "germinate, put forth shoots, bud",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1231,
+    "Word": "relics",
+    "PartOfSpeech": "noun",
+    "Definition": "An object surviving from an earlier time, especially one of historical or sentimental interest.",
+    "Example": "They found relics from the Mayan civilization.",
+    "Synonyms": "artifact, historical object, ancient object, antiquity, antique, heirloom",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1232,
+    "Word": "discomfort",
+    "PartOfSpeech": "noun",
+    "Definition": "Slight pain.",
+    "Example": "The patient complained of discomfort in the left calf.",
+    "Synonyms": "pain, aches and pains, soreness, tenderness, irritation, stiffness, malaise",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1233,
+    "Word": "creatures",
+    "PartOfSpeech": "noun",
+    "Definition": "An animal, as distinct from a human being.",
+    "Example": "Night sounds of birds and other creatures kept him awake.",
+    "Synonyms": "animal, beast, brute",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1234,
+    "Word": "dwelling",
+    "PartOfSpeech": "noun",
+    "Definition": "A house, apartment, or other place of residence.",
+    "Example": "The proposed dwelling is out of style with those nearby.",
+    "Synonyms": "residence, habitation, home, house, accommodation, lodging",
+    "Grade": 5,
+    "List": "5th - 2018 - words 1-17"
+  },
+  {
+    "WordID": 1235,
+    "Word": "rickety",
+    "PartOfSpeech": "adjective",
+    "Definition": "Poorly made and likely to collapse.",
+    "Example": "We went carefully up the rickety stairs.",
+    "Synonyms": "shaky, unsteady, unsound, unsafe, tottering, crumbling, decaying",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1236,
+    "Word": "infested",
+    "PartOfSpeech": "verb",
+    "Definition": "Be present in large numbers, typically so as to cause damage or disease.",
+    "Example": "The house is infested with cockroaches.",
+    "Synonyms": "overrun, spread through, take over, overspread, swarm over, crawl over",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1237,
+    "Word": "despair",
+    "PartOfSpeech": "noun",
+    "Definition": "The complete loss or absence of hope.",
+    "Example": "He felt despair while stranded on the island.",
+    "Synonyms": "hopelessness, desperation, distress, anguish, pain, unhappiness",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1238,
+    "Word": "thirst",
+    "PartOfSpeech": "noun",
+    "Definition": "A feeling of needing or wanting to drink something.",
+    "Example": "They quenched their thirst with spring water.",
+    "Synonyms": "yearning, dryness, longing, drought",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1239,
+    "Word": "youthful",
+    "PartOfSpeech": "adjective",
+    "Definition": "Young or seeming young.",
+    "Example": "All of us can stay youthful at heart.",
+    "Synonyms": "spry, sprightly, vigorous, active",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1240,
+    "Word": "shrewd",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having or showing sharp powers of judgment; astute.",
+    "Example": "She was shrewd enough to guess the motive behind his gesture.",
+    "Synonyms": "astute, sharp-witted, sharp, acute, intelligent, clever, alert",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1241,
+    "Word": "molten",
+    "PartOfSpeech": "adjective",
+    "Definition": "Fused or liquefied by heat : melted.",
+    "Example": "The molten lava ran down the mountain.",
+    "Synonyms": "liquefied, liquid, fluid, melted, flowing, soft",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1242,
+    "Word": "stalk",
+    "PartOfSpeech": "noun",
+    "Definition": "The main stem of a herbaceous plant.",
+    "Example": "He chewed a stalk of grass.",
+    "Synonyms": "stem, shoot, trunk, stock, cane",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1243,
+    "Word": "aromas",
+    "PartOfSpeech": "noun",
+    "Definition": "A distinctive, typically pleasant smell.",
+    "Example": "She smelled the tantalizing aromas of baked cookies and bread.",
+    "Synonyms": "smell, odour, fragrance, scent, perfume, whiff, redolence",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1244,
+    "Word": "champion",
+    "PartOfSpeech": "noun",
+    "Definition": "A person who has defeated or surpassed all rivals in a competition, especially in sports.",
+    "Example": "The tennis champion waved to the crowd.",
+    "Synonyms": "winner, title-holder, gold medallist, unbeaten, undefeated",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1245,
+    "Word": "salesclerk",
+    "PartOfSpeech": "noun",
+    "Definition": "An assistant who sells goods in a retail store.",
+    "Example": "The salesclerk helped us with our purchase.",
+    "Synonyms": "seller, salesperson, dealer, trader, tradesman",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1246,
+    "Word": "dollop",
+    "PartOfSpeech": "noun",
+    "Definition": "A shapeless mass or blob of something, especially soft food.",
+    "Example": "He added a great dollop of cream.",
+    "Synonyms": "blob, glob, gobbet, lump, clump, ball, mound",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1247,
+    "Word": "gentlemen",
+    "PartOfSpeech": "noun",
+    "Definition": "Chivalrous, courteous, or honorable men.",
+    "Example": "They behaved like perfect gentlemen.",
+    "Synonyms": "men of honor, cavaliers, sirs",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1248,
+    "Word": "captivity",
+    "PartOfSpeech": "noun",
+    "Definition": "The condition of being imprisoned or confined.",
+    "Example": "He was released after 235 days in captivity.",
+    "Synonyms": "imprisonment, confinement, internment, incarceration, custody, detention, restraint",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1249,
+    "Word": "blathering",
+    "PartOfSpeech": "noun",
+    "Definition": "The action of talking long-windedly without making very much sense.",
+    "Example": "Now stop your blathering and get back to work.",
+    "Synonyms": "chattering, blabbering, blithering, chitchatting, gibbering, jabbering, prattling",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1250,
+    "Word": "Venus",
+    "PartOfSpeech": "proper noun",
+    "Definition": "The planet second in order from the sun.",
+    "Example": "Have you seen Venus through a telescope?",
+    "Synonyms": "N/A",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1251,
+    "Word": "unwavering",
+    "PartOfSpeech": "adjective",
+    "Definition": "Steady or resolute; not wavering.",
+    "Example": "She fixed him with an unwavering stare.",
+    "Synonyms": "steady, fixed, resolute, resolved, firm, steadfast, decided",
+    "Grade": 5,
+    "List": "5th - 2018 - words 18-34"
+  },
+  {
+    "WordID": 1252,
+    "Word": "spectators",
+    "PartOfSpeech": "noun",
+    "Definition": " People watching an exhibition (such as a sports event).",
+    "Example": "Around fifteen thousand spectators came to watch the thrills and spills.",
+    "Synonyms": "onlooker, watcher, looker-on, fly on the wall, viewer, observer, witness",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1253,
+    "Word": "construction",
+    "PartOfSpeech": "noun",
+    "Definition": "The building of something, typically a large structure.",
+    "Example": "There was a skyscraper under construction.",
+    "Synonyms": "building, erection, putting up, setting up, raising, establishment, assembly",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1254,
+    "Word": "swindle",
+    "PartOfSpeech": "verb",
+    "Definition": "Use deception to deprive (someone) of money or possessions.",
+    "Example": "The crook planned to swindle investors out of millions of dollars.",
+    "Synonyms": "con, deceive, dupe, fleece, hoodwink, cheat, bamboozle",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1255,
+    "Word": "infinity",
+    "PartOfSpeech": "noun",
+    "Definition": "An indefinitely great number or amount.",
+    "Example": "The infinity of space is difficult to comprehend.",
+    "Synonyms": "endlessness, eternity, boundlessness, limitlessness, extensiveness",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1256,
+    "Word": "mirror",
+    "PartOfSpeech": "noun",
+    "Definition": "A reflective surface, typically of coated glass, that reflects a clear image.",
+    "Example": "I'm starting with the man in the mirror.",
+    "Synonyms": "looking glass, reflector, reflecting surface",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1257,
+    "Word": "resemble",
+    "PartOfSpeech": "verb",
+    "Definition": "To be like or similar to.",
+    "Example": "Some people resemble their dogs.",
+    "Synonyms": "parallel, simulate, mirror, approximate, echo, relate",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1258,
+    "Word": "citizen",
+    "PartOfSpeech": "noun",
+    "Definition": "A legally recognized subject or national of a state or commonwealth.",
+    "Example": "She was proud to become a citizen.",
+    "Synonyms": "inhabitant, civilian, national, resident, native",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1259,
+    "Word": "pronounce",
+    "PartOfSpeech": "verb",
+    "Definition": "Make the sound of (a word or part of a word) in the correct or a particular way.",
+    "Example": "Can you pronounce that word again?",
+    "Synonyms": "say, enunciate, articulate, utter, express, voice, vocalize",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1260,
+    "Word": "taut",
+    "PartOfSpeech": "adjective",
+    "Definition": "Stretched or pulled tight; not slack.",
+    "Example": "The fabric stays taut without adhesive.",
+    "Synonyms": "tight, tightly stretched, stretched, rigid, stressed, not slack, not loose",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1261,
+    "Word": "monopoly",
+    "PartOfSpeech": "noun",
+    "Definition": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+    "Example": "His likely motive was to protect his regional monopoly on furs.",
+    "Synonyms": "cartel, trust, syndicate, consortium",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1262,
+    "Word": "Florence",
+    "PartOfSpeech": "proper noun",
+    "Definition": "A city in western central Italy, the capital of Tuscany.",
+    "Example": "I would love to visit Florence one day.",
+    "Synonyms": "N/A",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1263,
+    "Word": "leopard",
+    "PartOfSpeech": "noun",
+    "Definition": " A large, strong cat of southern Asia and Africa that is usually light orangish brown with black spots.",
+    "Example": "The leopard hid in the tall grass looking to ambush its prey.",
+    "Synonyms": "cheetah, panther",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1264,
+    "Word": "comrades",
+    "PartOfSpeech": "noun",
+    "Definition": "Very close friends : companions.",
+    "Example": "He met up with his old college comrades.",
+    "Synonyms": "companion, friend, buddy, colleague, compatriot, crony",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1265,
+    "Word": "swiveled",
+    "PartOfSpeech": "verb",
+    "Definition": "Swung or turned on a part that pivots freely.",
+    "Example": "She swiveled in her office chair.",
+    "Synonyms": "pivot, revolve, rotate, whirl, hinge, pirouette",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1266,
+    "Word": "Borneo",
+    "PartOfSpeech": "proper noun",
+    "Definition": "A large island of the Malay Archipelago southwest of the Philippines.",
+    "Example": "Borneo is the third-largest island in the world and the largest in Asia.",
+    "Synonyms": "N/A",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1267,
+    "Word": "scaffolding",
+    "PartOfSpeech": "noun",
+    "Definition": "A system of movable platforms that workers sit or stand on when working above the ground.",
+    "Example": "The painter used the scaffolding to reach the ceiling.",
+    "Synonyms": "frame, platform, boards",
+    "Grade": 5,
+    "List": "5th - 2018 - words 35-50"
+  },
+  {
+    "WordID": 1268,
+    "Word": "boycott",
+    "PartOfSpeech": "verb",
+    "Definition": "Withdraw from commercial or social relations with as a punishment or protest.",
+    "Example": "We will boycott all banks which take part in the loans scheme.",
+    "Synonyms": "spurn, snub, cold-shoulder, shun, avoid, abstain from, stay away from",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1269,
+    "Word": "impulse",
+    "PartOfSpeech": "noun",
+    "Definition": "A sudden strong and unreflective urge or desire to act.",
+    "Example": "I had an almost irresistible impulse to giggle.",
+    "Synonyms": "urge, instinct, drive, compulsion, need, itch",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1270,
+    "Word": "winsome",
+    "PartOfSpeech": "adjective",
+    "Definition": "Attractive or appealing in appearance or character.",
+    "Example": "The actor had a winsome smile.",
+    "Synonyms": "appealing, engaging, charming, winning, attractive, pretty, sweet",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1271,
+    "Word": "alternate",
+    "PartOfSpeech": "verb",
+    "Definition": "To change back and forth between conditions, states, actions, etc.",
+    "Example": "When lifting weights, alternate between your upper and lower body.",
+    "Synonyms": "vary, waver, change, rotate, alter, intersperse, fluctuate",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1272,
+    "Word": "ottoman",
+    "PartOfSpeech": "noun",
+    "Definition": "A cushioned footstool or low seat without back or arms.",
+    "Example": "Recline and put your feet up on the ottoman.",
+    "Synonyms": "footrest, hassock, stool",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1273,
+    "Word": "entertain",
+    "PartOfSpeech": "verb",
+    "Definition": "Provide (someone) with amusement or enjoyment.",
+    "Example": "They liked to entertain guests in their home.",
+    "Synonyms": "amuse, divert, distract, delight, please, charm, cheer",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1274,
+    "Word": "anorak",
+    "PartOfSpeech": "noun",
+    "Definition": "A waterproof jacket, typically with a hood, of a kind originally used in polar regions.",
+    "Example": "An anorak is useful when visiting Alaska.",
+    "Synonyms": "raincoat, cloak, frock, jacket, overcoat, windbreaker",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1275,
+    "Word": "documentary",
+    "PartOfSpeech": "adjective",
+    "Definition": "Consisting of official pieces of written, printed, or other matter.",
+    "Example": "His book is based on documentary sources.",
+    "Synonyms": "recorded, documented, registered, written, chronicled, archived",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1276,
+    "Word": "jargon",
+    "PartOfSpeech": "noun",
+    "Definition": "The language peculiar to a particular trade, profession, or group.",
+    "Example": "The document was full of legal jargon.",
+    "Synonyms": "lingo, slang, idiom, argot, parlance, vernacular",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1277,
+    "Word": "gratis",
+    "PartOfSpeech": "adverb",
+    "Definition": "Without charge; free.",
+    "Example": "A monthly program was issued gratis.",
+    "Synonyms": "free of charge, free, for nothing, at no cost, complimentary, freebie",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1278,
+    "Word": "sympathy",
+    "PartOfSpeech": "noun",
+    "Definition": "Feelings of pity and sorrow for someone else's misfortune.",
+    "Example": "They had great sympathy for the flood victims.",
+    "Synonyms": "commiseration, pity, condolence, consolation, comfort, solace, support",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1279,
+    "Word": "paragon",
+    "PartOfSpeech": "noun",
+    "Definition": "A person or thing regarded as a perfect example of a particular quality.",
+    "Example": "It would have taken a paragon of virtue not to feel jealous.",
+    "Synonyms": "perfection, epitome, exemplar, essence, ideal",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1280,
+    "Word": "festooned",
+    "PartOfSpeech": "noun",
+    "Definition": "A chain or garland of flowers, leaves, or ribbons, hung in a curve as a decoration.",
+    "Example": "The wedding hall was festooned with curvy strings of red roses.",
+    "Synonyms": "garland, chain, lei, swathe, swag, wreath",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1281,
+    "Word": "tonsils",
+    "PartOfSpeech": "noun",
+    "Definition": "The two small masses of tissue in the throat on each side of the root of the tongue.",
+    "Example": "Some people need to have their tonsils removed.",
+    "Synonyms": "N/A",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1282,
+    "Word": "mogul",
+    "PartOfSpeech": "noun",
+    "Definition": "An important or powerful person, especially in the motion picture or media industry.",
+    "Example": "The Hollywood movie mogul practically owned the town.",
+    "Synonyms": "magnate, tycoon, vip, notable, personage, baron",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1283,
+    "Word": "udon",
+    "PartOfSpeech": "noun",
+    "Definition": "(In Japanese cooking) wheat pasta made in thick strips.",
+    "Example": "Add the udon noodles and cook until they are heated through.",
+    "Synonyms": "noodles, wheat pasta",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1284,
+    "Word": "frequently",
+    "PartOfSpeech": "adverb",
+    "Definition": "Regularly or habitually; often.",
+    "Example": "They go abroad frequently.",
+    "Synonyms": "regularly, often, all the time, habitually, customarily, routinely",
+    "Grade": 6,
+    "List": "6th - 2016 - words 1-17"
+  },
+  {
+    "WordID": 1285,
+    "Word": "pomposity",
+    "PartOfSpeech": "noun",
+    "Definition": "The quality of being pompous; self-importance.",
+    "Example": "He had a reputation for arrogance and pomposity.",
+    "Synonyms": "self-importance, imperiousness, grandiosity, affectation, stiffness",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1286,
+    "Word": "marathon",
+    "PartOfSpeech": "noun",
+    "Definition": "A long-distance running race, strictly one of 26 miles, 385 yards (42.195 km).",
+    "Example": "The college athlete ran the marathon in record time.",
+    "Synonyms": "prolonged, extended, stretched out, drawn out, lengthy",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1287,
+    "Word": "polemic",
+    "PartOfSpeech": "noun",
+    "Definition": "A strong verbal or written attack on someone or something.",
+    "Example": "His polemic against his opponent went on for an hour.",
+    "Synonyms": "diatribe, invective, denunciation, denouncement, rant, tirade, broadside",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1288,
+    "Word": "casserole",
+    "PartOfSpeech": "noun",
+    "Definition": "A kind of stew or side dish that is cooked slowly in an oven.",
+    "Example": "Chicken casserole is her favorite.",
+    "Synonyms": "goulash, hash, pottage, stew, pot pie",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1289,
+    "Word": "platinum",
+    "PartOfSpeech": "noun",
+    "Definition": "A precious silvery-white metal.",
+    "Example": "She wore a platinum bracelet.",
+    "Synonyms": "metal, silver, iron",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1290,
+    "Word": "mundane",
+    "PartOfSpeech": "adjective",
+    "Definition": "Lacking interest or excitement; dull.",
+    "Example": "Joe was tired of his mundane, humdrum job.",
+    "Synonyms": "humdrum, dull, boring, tedious, monotonous, tiresome, wearisome",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1291,
+    "Word": "alpaca",
+    "PartOfSpeech": "noun",
+    "Definition": "A long-haired domesticated South American mammal related to the llama, valued for its wool.",
+    "Example": "They had an alpaca on their farm.",
+    "Synonyms": "llama",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1292,
+    "Word": "billiards",
+    "PartOfSpeech": "plural noun",
+    "Definition": "A game played in which cues are used to strike balls into pockets.",
+    "Example": "Shall we play billiards after dinner?",
+    "Synonyms": "pool",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1293,
+    "Word": "cyclone",
+    "PartOfSpeech": "noun",
+    "Definition": "A circular storm that forms over warm oceans. It brings heavy rains and strong winds when it hits land.",
+    "Example": "The roads were packed with motorists fleeing the cyclone.",
+    "Synonyms": "twister, windstorm, typhoon, hurricane",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1294,
+    "Word": "Scrooge",
+    "PartOfSpeech": "adjective",
+    "Definition": "(Of a person or their behavior) not generous with money; miserly.",
+    "Example": "After several years of Scrooge-like behavior, shoppers spent a bundle at Christmas.",
+    "Synonyms": "cheapskate, miser, tightwad, moneygrubber",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1295,
+    "Word": "genteel",
+    "PartOfSpeech": "adjective",
+    "Definition": "Polite, refined, or respectable, often in an affected or ostentatious way.",
+    "Example": "Her genteel upbringing showed in her manners.",
+    "Synonyms": "refined, respectable, polished, decorous, proper, polite, correct",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1296,
+    "Word": "collude",
+    "PartOfSpeech": "verb",
+    "Definition": "Cooperate in a secret or unlawful way in order to deceive or gain an advantage over others.",
+    "Example": "The judge warned the businesses not to collude.",
+    "Synonyms": "conspire, connive, intrigue, plot, collaborate",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1297,
+    "Word": "guardian",
+    "PartOfSpeech": "noun",
+    "Definition": "A defender, protector, or keeper.",
+    "Example": "The guardian watched over the precious jewels.",
+    "Synonyms": "protector, defender, preserver, champion, custodian, warden",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1298,
+    "Word": "mosaic",
+    "PartOfSpeech": "noun",
+    "Definition": "A pattern produced by arranging small colored pieces of hard material, such as stone, tile, or glass.",
+    "Example": "The walls and vaults are decorated by marble and mosaic.",
+    "Synonyms": "patchwork, montage, motley",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1299,
+    "Word": "tapioca",
+    "PartOfSpeech": "noun",
+    "Definition": "A starchy substance in the form of hard white grains used in puddings.",
+    "Example": "Did you enjoy your tapioca pudding?",
+    "Synonyms": "custard, pudding, mousse",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1300,
+    "Word": "electrode",
+    "PartOfSpeech": "noun",
+    "Definition": "A conductor through which electricity enters or leaves an object.",
+    "Example": "They hooked the electrode to the experiment.",
+    "Synonyms": "terminal, wire",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1317,
+    "Word": "personnel",
+    "PartOfSpeech": "plural noun",
+    "Definition": "People employed in an organization such as a company or military service.",
+    "Example": "Many of the personnel involved require training.",
+    "Synonyms": "staff, employees, workforce, workers, labor force, manpower, human resources",
+    "Grade": 6,
+    "List": "6th - 2016 - words 18-34"
+  },
+  {
+    "WordID": 1301,
+    "Word": "modular",
+    "PartOfSpeech": "adjective",
+    "Definition": "Employing or involving modules as the basis of design or construction.",
+    "Example": "Modular housing units are growing in popularity.",
+    "Synonyms": "interchangeable, compatible, exchangeable, commutable",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1302,
+    "Word": "quagmire",
+    "PartOfSpeech": "noun",
+    "Definition": "A soft boggy area of land that gives way underfoot.",
+    "Example": "Torrential rain turned the building site into a quagmire.",
+    "Synonyms": "swamp, morass, bog, marsh, mire",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1303,
+    "Word": "enunciate",
+    "PartOfSpeech": "verb",
+    "Definition": "Say or pronounce clearly.",
+    "Example": "The teacher would enunciate each word slowly.",
+    "Synonyms": "pronounce, articulate",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1304,
+    "Word": "melodramatic",
+    "PartOfSpeech": "adjective",
+    "Definition": "Exaggerated in speech or behavior.",
+    "Example": "Just eat your peas and stop being so melodramatic.",
+    "Synonyms": "theatrical, exaggerated, artificial, hammy",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1305,
+    "Word": "epoxy",
+    "PartOfSpeech": "noun",
+    "Definition": "A class of resins used mainly in adhesives, coatings and castings.",
+    "Example": "She fixed the vase with a strong epoxy.",
+    "Synonyms": "adhesive, glue, fixative, gum, paste, bonding, binder",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1306,
+    "Word": "chortle",
+    "PartOfSpeech": "verb",
+    "Definition": "Laugh in a breathy, gleeful way; chuckle.",
+    "Example": "The boy would chortle when watching his favorite show.",
+    "Synonyms": "chuckle, laugh, giggle, titter, tee-hee, snigger",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1307,
+    "Word": "WYSIWYG",
+    "PartOfSpeech": "adjective",
+    "Definition": "What You See Is What You Get. Text on a screen printing to paper exactly as seen.",
+    "Example": "This program won't give you true WYSIWYG, but it does give a decent approximation.",
+    "Synonyms": "exact, literal, accurate, precise",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1308,
+    "Word": "yurt",
+    "PartOfSpeech": "noun",
+    "Definition": "A circular tent of felt or skins on a collapsible framework, used by nomads in Mongolia, Siberia, and Turkey.",
+    "Example": "They slept in a yurt while visiting Mongolia.",
+    "Synonyms": "tent, shelter, tepee, wigwam",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1309,
+    "Word": "banquet",
+    "PartOfSpeech": "noun",
+    "Definition": "An elaborate and formal evening meal for many people, often followed by speeches.",
+    "Example": "The emperor held a lavish banquet for his guests.",
+    "Synonyms": "feast, reception, festivity",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1310,
+    "Word": "escarpment",
+    "PartOfSpeech": "noun",
+    "Definition": "A long, steep slope, especially one at the edge of a plateau.",
+    "Example": "They climbed the escarpment until they were well above the river.",
+    "Synonyms": "mountain, hill, height, alp, cliff, ledge ridge",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1311,
+    "Word": "zealous",
+    "PartOfSpeech": "adjective",
+    "Definition": "Having or showing zeal; ardently active, devoted, or diligent.",
+    "Example": "The council was extremely zealous in the application of the regulations.",
+    "Synonyms": "fervent, ardent, fervid, fiery, passionate, impassioned, devout",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1312,
+    "Word": "decor",
+    "PartOfSpeech": "noun",
+    "Definition": "The furnishing and decoration of a room.",
+    "Example": "Inside, the decor is elegant and traditional.",
+    "Synonyms": "decoration, furnishing, furbishing, ornamentation",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1313,
+    "Word": "revelation",
+    "PartOfSpeech": "noun",
+    "Definition": "A surprising and previously unknown fact, especially one that is made known in a dramatic way.",
+    "Example": "After the discussion, she had a revelation about her personal life.",
+    "Synonyms": "disclosure, surprising fact, divulgence, declaration, utterance, announcement, report",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1314,
+    "Word": "vague",
+    "PartOfSpeech": "adjective",
+    "Definition": "Of uncertain, indefinite, or unclear character or meaning.",
+    "Example": "Many patients suffer vague symptoms.",
+    "Synonyms": "indistinct, indefinite, indeterminate, unclear",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1315,
+    "Word": "cumulus",
+    "PartOfSpeech": "noun",
+    "Definition": "Cloud forming rounded masses heaped on each other above a flat base at fairly low altitude.",
+    "Example": "The cumulus clouds are breaking up to give a lovely summer evening.",
+    "Synonyms": "cloud, mist, vapor, fog",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  },
+  {
+    "WordID": 1316,
+    "Word": "montage",
+    "PartOfSpeech": "noun",
+    "Definition": "The process of piecing together separate sections of film to form a continuous whole.",
+    "Example": "The boxer's training montage helped the audience believe his newfound success.",
+    "Synonyms": "array, assortment, collection, medley",
+    "Grade": 6,
+    "List": "6th - 2016 - words 35-50"
+  }
+]

@@ -1,0 +1,85 @@
+﻿<!--This container displays the main spelling quiz. Will be made invisible with d-none when quiz results are shown.-->
+<div id="mainQuiz" class="container-fluid">
+
+    <div class="row justify-content-center mt-2 mb-2 mt-sm-5 mb-sm-4">
+        <h5 id="answer" class="font-weight-bold"></h5>
+    </div>
+
+    <div class="row mx-1 justify-content-center">
+        <div class="input-group justify-content-center">
+
+            <!--col-sm-8 col-md-8 col-lg-8 col-xl-6">-->
+            <button type="button" class="btn btn-info mr-2" onclick="playWordWithDefinition()">
+                <i class="fas fa-play fa-lg fa-fw"></i>
+            </button>
+
+            <input id="enterSpelling" type="text" class="form-control" style="max-width: 350px;"
+                   autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+                   placeholder="Enter Spelling" aria-label="Enter Spelling" aria-describedby="basic-addon2">
+            <div class="input-group-append">
+                <button class="btn btn-info" type="button" onclick="checkWord()">
+                    <i class="fas fa-arrow-right fa-lg fa-fw"></i>
+                </button>
+            </div>
+
+            <button type="button" class="btn btn-info ml-2" onclick="showWord()">
+                <i class="fas fa-question fa-lg fa-fw"></i>
+            </button>
+
+        </div>
+    </div>
+
+    <div class="row justify-content-center mt-3 mt-sm-5">
+        <ul class="list-group">
+            <li class="list-group-item"><span class="font-weight-bold">Definition: &nbsp;&nbsp;</span><span id="definition"></span></li>
+            <li class="list-group-item"><span class="font-weight-bold">Example: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span id="example"></span></li>
+            <li class="list-group-item"><span class="font-weight-bold">Synonyms: &nbsp;&nbsp;</span><span id="synonyms"></span></li>
+        </ul>
+    </div>
+</div>
+
+<!--This container displays the quiz results. Will be made invisible with d-none when main quiz is shown.-->
+<div id="quizResults" class="container d-none">
+
+    <div class="row justify-content-center font-weight-bold mt-2 mb-2 mt-sm-5 mb-sm-4 align-items-center">
+        <h5 id="resultsNumCorrect" class="mt-3">You got x out of x correct.</h5>
+        <button type="button" class="btn btn-success ml-3 mt-3" onclick="loadQuizPage()">Restart Quiz</button>
+        <button type="button" class="btn btn-success ml-3 mt-3" onclick="loadSelectPage()">Select New List</button>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        <table id="quizMissedTable" class="col-12 col-sm-3 table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <th class="text-right pr-3">Correct Spelling</th>
+                    <th class="text-left pl-3">Your Answer</th>
+                </tr>
+            </thead>
+            <tbody id="quizMissedTableBody">
+                <!-- Will be automatically populated with rows like this:
+                <tr>
+                    <td class="text-danger">atomateek x</td>
+                    <td>automatic</td>
+                </tr>
+                -->
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        <table id="quizCorrectTable" class="col-12 col-sm-3 table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <th colspan="2" class="text-center">Correct</th>
+                </tr>
+            </thead>
+            <tbody id="quizCorrectTableBody">
+                <!-- Will be automatically populated with rows like this:
+                <tr>
+                    <td>automatic</td>
+                </tr>
+                -->
+            </tbody>
+        </table>
+    </div>
+</div>

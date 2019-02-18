@@ -1,0 +1,18 @@
+﻿/* Add a check to the left of selected dropdown items. */
+.dropdown-item-checked::before {
+    position: absolute;
+    left: .4rem;
+    content: '✓';
+    font-weight: 600;
+}
+
+/* Override hover behavior for btn-light as on iOS it behaves unpredictably. */
+.btn-light, .btn-light:hover {
+    background-color: hsl(0, 100%, 100%);
+    border-color: hsl(0, 0%, 50%);
+}
+
+/* Use larger font for synonym quiz possible answers as they are short. */
+.large-font {
+    font-size: 20px;
+}

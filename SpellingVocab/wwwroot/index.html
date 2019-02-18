@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Spelling Quiz</title>
+    <link id="bootstrapRef" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body class="bg-light">
+
+    <!--The header contains the top navbar with all user options.-->
+    <header class="container-fullwidth">
+        <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+            <h1 class="navbar-brand btn" onclick="loadSelectPage()"><i class="fas fa-book-open"></i> SpellBound</h1>
+
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#hamburgerMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div id="hamburgerMenu" class="navbar-collapse collapse">
+                <ul class="navbar-nav">
+                    <!-- ml-auto sets the nav buttons to the far right -->
+                    <li class="nav-item">
+                        <a class="nav-link text-light" href="#" onclick="loadSelectPage()"> Select List</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Select Quiz
+                        </a>
+                        <div id="quizDropdown" class="dropdown-menu">
+                            <a id="quizSpelling" class="dropdown-item dropdown-item-checked" href="#">Spelling</a>
+                            <a id="quizDefinitions" class="dropdown-item" href="#">Definitions</a>
+                            <a id="quizSynonyms" class="dropdown-item" href="#">Synonyms</a>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Voices
+                        </a>
+                        <div id="voiceDropdown" class="dropdown-menu dropdown-menu-right">
+                            <!--<a class="dropdown-item" href="#"><i id="usFemale" class="fas fa-hand-point-right mr-1"></i>US English Female</a>-->
+                            <a id="usFemale" class="dropdown-item dropdown-item-checked" href="#">US English Female</a>
+                            <a id="ukFemale" class="dropdown-item" href="#">UK English Female</a>
+                            <a id="usMale" class="dropdown-item" href="#">US English Male</a>
+                            <a id="ukMale" class="dropdown-item" href="#">UK English Male</a>
+                            <div class="dropdown-divider"></div>
+                            <h5 class="dropdown-header">Voice Speed</h5>
+                            <a id="fast" class="dropdown-item" href="#">fast</a>
+                            <a id="normal" class="dropdown-item dropdown-item-checked" href="#">normal</a>
+                            <a id="slow" class="dropdown-item" href="#">slow</a>
+                            <a id="verySlow" class="dropdown-item" href="#">very slow</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Themes
+                        </a>
+                        <div id="themeDropdown" class="dropdown-menu dropdown-menu-right">
+                            <a id="default" class="dropdown-item dropdown-item-checked" href="#">Default</a>
+                            <a id="cosmo" class="dropdown-item" href="#">Cosmo</a>
+                            <a id="flatly" class="dropdown-item" href="#">Flatly</a>
+                            <a id="lumen" class="dropdown-item" href="#">Lumen</a>
+                            <a id="materia" class="dropdown-item" href="#">Materia</a>
+                            <a id="minty" class="dropdown-item" href="#">Minty</a>
+                            <a id="pulse" class="dropdown-item" href="#">Pulse</a>
+                            <a id="sandstone" class="dropdown-item" href="#">Sandstone</a>
+                            <a id="sketchy" class="dropdown-item" href="#">Sketchy</a>
+                            <a id="slate" class="dropdown-item" href="#">Slate</a>
+                            <a id="spacelab" class="dropdown-item" href="#">Spacelab</a>
+                            <a id="united" class="dropdown-item" href="#">United</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" href="#" onclick="loadAboutPage()"> About</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!--Use jQuery .load AJAX call to dynamically load the body depending on the user selection.-->
+    <div id="body-content"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+    <script src="js/utility.js"></script>
+    <script src="js/quizSelection.js"></script>
+    <script src="js/quizSpelling.js"></script>
+    <script src="js/quizDefinitionsAndSynonyms.js"></script>
+</body>
+</html>

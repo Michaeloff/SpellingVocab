@@ -1,0 +1,57 @@
+﻿<!--This container displays the synonyms quiz. Will be made invisible with d-none when quiz results are shown.-->
+<div id="mainQuiz" class="container-fluid">
+
+    <div class="row justify-content-center mt-2 mb-2 mt-sm-5 mb-sm-4">
+        <h5 id="answer" class="font-weight-bold"></h5>
+    </div>
+
+    <div class="row mx-1 justify-content-center">
+        <h2 id="word" class="font-weight-bold">happiness</h2>
+    </div>
+
+    <div class="row justify-content-center mt-3 mt-sm-4"> <!--col-md-8 offset-md-2 mt-3 mt-sm-5-->
+        <ul class="list-group">
+            <li class="list-group-item bg-light border-0">
+                <span id="buttonDef0" class="quiz-button large-font font-weight-bold btn btn-block btn-light" onclick="selectedAnswer(0)">This is a test to see if this stays in the center.</span>
+            </li>
+            <li class="list-group-item bg-light border-0">
+                <span id="buttonDef1" class="quiz-button large-font font-weight-bold btn btn-block btn-light" onclick="selectedAnswer(1)">This is a test to see if this stays in the center.</span>
+            </li>
+            <li class="list-group-item bg-light border-0">
+                <span id="buttonDef2" class="quiz-button large-font font-weight-bold btn btn-block btn-light" onclick="selectedAnswer(2)">This is a test to see if this stays in the center.</span>
+            </li>
+            <li class="list-group-item bg-light border-0">
+                <span id="buttonDef3" class="quiz-button large-font font-weight-bold btn btn-block btn-light" onclick="selectedAnswer(3)">This is a test to see if this stays in the center.</span>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!--This container displays the quiz results. Will be made invisible with d-none when main quiz is shown.-->
+<div id="quizResults" class="container d-none">
+
+    <div class="row justify-content-center font-weight-bold mt-2 mb-2 mt-sm-5 mb-sm-4 align-items-center">
+        <h5 id="resultsNumCorrect" class="mt-3">You got x out of x correct.</h5>
+        <button type="button" class="btn btn-success ml-3 mt-3" onclick="loadQuizSynonymsPage()">Restart Quiz</button>
+        <button type="button" class="btn btn-success ml-3 mt-3" onclick="loadSelectPage()">Select New List</button>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        <table id="quizDefinitionsTable" class="col-12 col-sm-10 table table-striped table-bordered bg-white">
+            <thead>
+                <tr>
+                    <th class="text-center">Word</th>
+                    <th class="text-left pl-3">Correct Synonyms</th>
+                </tr>
+            </thead>
+            <tbody id="quizDefinitionsTableBody">
+                <!-- Will be automatically populated with rows like this:
+                <tr>
+                    <td><i class='fas fa-check text-success'></i> automatic</td>
+                    <td>This is the definition of the word.</td>
+                </tr>
+                -->
+            </tbody>
+        </table>
+    </div>
+</div>
