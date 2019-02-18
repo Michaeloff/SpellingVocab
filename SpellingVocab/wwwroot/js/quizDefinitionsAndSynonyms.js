@@ -42,6 +42,7 @@ function quizSynonymsSetup() {
     synonyms = synonyms.filter(synonym => { return (synonym != "N/A"); });  // Remove any N/A strings.
 
     quizProgress.clear();
+    progressBar.init();
     quizDefinitionsState.init(synonyms);
 }
 
@@ -57,6 +58,7 @@ function quizDefinitionSetup() {
 
     let definitions = wordObjects.map(word => { return word.definition; });
     quizProgress.clear();
+    progressBar.init();
     quizDefinitionsState.init(definitions);
 }
 
@@ -157,8 +159,10 @@ function selectedAnswer(answerNum) {
     quizDefinitionsState.setReady(false);
     quizDefinitionsState.setTryAgain(true);
     quizDefinitionsState.incrementIndex();
+    progressBar.update(quizDefinitionsState.index());
+
     if (quizDefinitionsState.index() >= selected.length()) {
-        quizComplete();
+        setTimeout(quizComplete, 500);
         setupQuizDefinitionsResultsTable();
     }
     else {

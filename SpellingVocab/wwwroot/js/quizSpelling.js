@@ -31,6 +31,7 @@ function loadQuizSpellingPage() {
 // Clear the quiz state/progress and play first word in list.
 function start() {
     quizProgress.clear();
+    progressBar.init();
     quizState.clear();
     quizState.setAnswerText(selected.length() + " words to spell.  Good luck!");
     setWordByIndex();
@@ -105,7 +106,7 @@ function moveToNextWord(correct) {
         playWordWithExample();
     }
 
-    // Add progress bar update here.
+    progressBar.update(quizState.index());
 }
 
 // If the word is incorrect either provide another try or record and move on.

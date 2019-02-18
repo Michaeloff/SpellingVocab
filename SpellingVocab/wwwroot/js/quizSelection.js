@@ -19,6 +19,8 @@ $(document).ready(function (e) {
 
 // Called after doc/words are ready and when "Select List" (or "SpellBound") is clicked
 function loadSelectPage() {
+    progressBar.hide(); // Part of main index.html page, ensure it's hidden.
+
     // Use jQuery AJAX load call to load the body content.
     $('#body-content').load("quizSelection.html", function () {
 

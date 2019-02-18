@@ -318,6 +318,25 @@ function loadAboutPage() {
     $('#body-content').load("about.html", function () { });
 }
 
+// Handle the progress bar
+let progressBar = (function () {
+    function init() {
+        $("#progressBar").attr("style", "width: 0%");
+        $(".progress").removeClass("d-none");
+    }
+    function hide() { $(".progress").addClass("d-none"); }
+    function update(index) {
+        let progress = (index / selected.length()) * 100;
+        $("#progressBar").attr("style", "width: " + progress + "%");
+    }
+
+    return {
+        init: () => { return init(); },
+        hide: () => { return hide(); },
+        update: (index) => { return update(index); }
+    }
+})();
+
 // Consolidate the constants here to minimize typos.
 let constants = (function () {
     let noneOfTheAbove = "none of the above";

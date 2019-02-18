@@ -16,3 +16,8 @@
 .large-font {
     font-size: 20px;
 }
+
+/* Set the height of the progress bar fairly thin so it doesn't stand out too much. */
+.progress {
+    height: 4px;
+}

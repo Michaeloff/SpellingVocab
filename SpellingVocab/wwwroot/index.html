@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="css/site.css" rel="stylesheet" />
 </head>
+<!--<body class="bg-light" style="background-image:url('images/sunset.png'); background-size: cover; background-repeat: no-repeat;">-->
 <body class="bg-light">
-
     <!--The header contains the top navbar with all user options.-->
     <header class="container-fullwidth">
         <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
@@ -80,6 +80,12 @@
             </div>
         </nav>
     </header>
+
+    <div class="progress d-none" >
+        <div id="progressBar" class="progress-bar bg-info" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+
+    <!--<img src="images/book2.png" class="col-6 offset-3 img-fluid" alt="Book" />-->
 
     <!--Use jQuery .load AJAX call to dynamically load the body depending on the user selection.-->
     <div id="body-content"></div>
